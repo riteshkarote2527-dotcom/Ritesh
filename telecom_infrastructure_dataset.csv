@@ -1,0 +1,1001 @@
+Region,Project_Name,Technology_Type,Coverage_Percent,Latency_ms,Reliability_Percent,Adoption_Rate_Percent,Funding_Model,Challenges,Year
+Ethiopia,5G Expansion,TSN,81.67,1.13,97.56,65.33,PPP,Cybersecurity,2019
+Ghana,LEO Pilot,TSN,81.73,1.91,92.36,51.47,PPP,Skilled Manpower Shortage,2019
+India,LEO Pilot,Hybrid,69.63,1.57,97.45,65.27,Private,Integration Complexity,2018
+Tanzania,LEO Pilot,5G GNSS,71.97,1.47,93.63,69.77,Government,Cybersecurity,2021
+Kenya,RuralNet,Fiber,51.95,1.19,97.28,63.3,Government,Skilled Manpower Shortage,2020
+Nigeria,LEO Pilot,5G OAS,84.88,1.34,94.24,50.55,Private,Cybersecurity,2020
+Kenya,Digital India,TSN,75.55,1.48,95.07,57.83,Government,RoW Delays,2021
+Tanzania,BharatNet,TSN,64.19,1.09,95.97,56.54,PPP,Cybersecurity,2022
+Ghana,BharatNet,Fiber,55.09,1.18,94.03,67.68,Private,GNSS Interference,2018
+Ethiopia,Fiber Africa,Hybrid,60.2,0.96,94.84,59.91,Private,Skilled Manpower Shortage,2021
+South Africa,Digital India,5G GNSS,54.39,0.85,98.0,53.5,Private,RoW Delays,2021
+Tanzania,Smart Village,Hybrid,69.1,0.84,95.65,62.41,PPP,High Cost,2021
+Tanzania,Fiber Africa,Fiber,45.14,1.48,92.62,72.29,Government,Skilled Manpower Shortage,2023
+Ghana,Smart Village,Fiber,79.15,1.06,95.81,55.82,Government,Cybersecurity,2023
+India,LEO Pilot,TSN,60.2,1.53,90.59,71.07,Government,RoW Delays,2020
+Nigeria,BharatNet,5G GNSS,78.94,0.97,93.02,63.69,PPP,RoW Delays,2023
+Kenya,RuralNet,5G GNSS,60.67,1.27,96.56,72.42,Government,Integration Complexity,2023
+Nigeria,Fiber Africa,5G GNSS,60.98,1.18,93.06,58.4,PPP,Skilled Manpower Shortage,2020
+South Africa,Digital India,Hybrid,56.79,1.79,98.37,64.84,PPP,GNSS Interference,2024
+Ethiopia,RuralNet,5G GNSS,57.27,1.64,91.17,71.2,Private,GNSS Interference,2018
+India,BharatNet,TSN,58.71,1.59,94.18,50.85,Government,GNSS Interference,2023
+Kenya,RuralNet,TSN,83.12,0.86,98.23,54.22,PPP,GNSS Interference,2019
+Ghana,RuralNet,Satellite,69.65,1.53,94.68,65.1,Government,Skilled Manpower Shortage,2022
+Ethiopia,Smart Village,Hybrid,49.58,0.88,92.51,67.3,Private,Integration Complexity,2025
+South Africa,RuralNet,Hybrid,47.43,1.2,91.42,73.35,Government,Skilled Manpower Shortage,2019
+South Africa,RuralNet,Hybrid,77.27,1.84,93.67,65.11,Government,RoW Delays,2025
+Ethiopia,Fiber Africa,Fiber,69.17,1.98,91.11,74.13,Government,Integration Complexity,2022
+Ghana,5G Expansion,Satellite,77.36,1.51,93.58,61.95,PPP,High Cost,2023
+Ghana,BharatNet,TSN,57.83,1.7,96.55,73.98,PPP,Integration Complexity,2021
+Nigeria,5G Expansion,5G OAS,72.04,0.99,92.72,58.52,Private,High Cost,2019
+Kenya,Smart Village,5G GNSS,47.91,1.19,94.55,57.64,Private,GNSS Interference,2018
+Nigeria,Fiber Africa,5G GNSS,64.71,0.8,94.47,73.24,Government,High Cost,2018
+Kenya,Fiber Africa,5G OAS,75.91,1.86,98.38,50.51,Government,Skilled Manpower Shortage,2021
+South Africa,Smart Village,Fiber,76.72,1.11,90.8,63.51,Government,Skilled Manpower Shortage,2019
+South Africa,RuralNet,5G GNSS,62.01,0.87,91.91,70.79,PPP,High Cost,2023
+Ghana,Fiber Africa,Fiber,55.06,1.23,97.43,69.81,Private,High Cost,2021
+Kenya,5G Expansion,5G GNSS,51.19,1.2,95.59,71.97,Government,Skilled Manpower Shortage,2023
+Tanzania,Digital India,Satellite,57.32,1.96,98.21,67.8,Private,Cybersecurity,2024
+Nigeria,BharatNet,Fiber,67.11,0.93,97.62,69.0,Government,High Cost,2021
+Ghana,LEO Pilot,Hybrid,60.19,0.86,94.13,61.28,PPP,Integration Complexity,2019
+Kenya,LEO Pilot,TSN,79.24,1.13,95.91,68.31,Private,GNSS Interference,2025
+Kenya,Digital India,5G OAS,57.8,0.82,97.16,51.58,PPP,High Cost,2022
+India,Digital India,TSN,48.87,1.87,92.84,58.08,Government,GNSS Interference,2018
+Ethiopia,Fiber Africa,Fiber,68.45,1.86,98.51,50.57,Private,Cybersecurity,2021
+Ethiopia,BharatNet,5G OAS,62.04,1.63,91.56,63.7,Government,High Cost,2022
+India,BharatNet,Fiber,68.92,1.1,94.72,61.99,PPP,Integration Complexity,2025
+Ethiopia,Smart Village,Hybrid,58.04,1.22,93.83,58.98,Government,RoW Delays,2020
+Ghana,LEO Pilot,5G OAS,69.09,1.09,97.91,72.89,Government,Cybersecurity,2024
+Tanzania,BharatNet,5G GNSS,54.41,0.82,94.53,68.91,Private,Integration Complexity,2024
+India,RuralNet,5G OAS,76.51,1.92,93.76,62.26,Private,GNSS Interference,2023
+Kenya,Digital India,Hybrid,46.9,1.61,95.24,68.76,Private,Skilled Manpower Shortage,2021
+South Africa,Fiber Africa,TSN,59.8,0.96,96.8,67.89,Private,Cybersecurity,2020
+India,BharatNet,Fiber,51.83,2.0,95.91,53.25,Government,RoW Delays,2023
+South Africa,RuralNet,Fiber,84.25,1.56,93.85,51.79,PPP,Skilled Manpower Shortage,2023
+Nigeria,BharatNet,Hybrid,53.83,1.57,96.35,73.28,Government,RoW Delays,2024
+Ethiopia,5G Expansion,5G GNSS,81.81,1.56,95.47,54.23,PPP,RoW Delays,2024
+Ghana,RuralNet,5G GNSS,57.88,0.81,96.64,73.28,Government,GNSS Interference,2020
+Kenya,RuralNet,Satellite,65.27,1.85,95.52,54.68,PPP,GNSS Interference,2025
+Kenya,RuralNet,Hybrid,58.76,1.07,92.6,60.12,Government,High Cost,2018
+Tanzania,Smart Village,Hybrid,76.77,1.18,92.51,71.2,PPP,Skilled Manpower Shortage,2021
+South Africa,LEO Pilot,Hybrid,47.78,1.91,96.13,70.25,Private,High Cost,2023
+Kenya,5G Expansion,5G GNSS,78.29,1.48,96.75,64.49,Government,RoW Delays,2025
+Nigeria,Fiber Africa,TSN,70.27,1.44,91.62,58.41,Private,GNSS Interference,2020
+South Africa,5G Expansion,5G GNSS,56.38,1.76,90.92,73.94,Private,High Cost,2024
+Kenya,RuralNet,TSN,83.24,1.67,95.79,50.46,Government,Integration Complexity,2018
+Ghana,RuralNet,Satellite,77.29,1.66,93.47,62.62,Private,GNSS Interference,2022
+Ethiopia,Fiber Africa,Satellite,45.18,1.89,93.59,57.15,PPP,GNSS Interference,2023
+South Africa,Smart Village,Hybrid,64.2,1.02,96.7,61.96,PPP,Skilled Manpower Shortage,2025
+Tanzania,5G Expansion,TSN,75.01,1.27,92.12,56.04,PPP,RoW Delays,2021
+Ethiopia,BharatNet,Hybrid,63.82,1.51,92.0,66.51,Government,GNSS Interference,2021
+Kenya,RuralNet,TSN,46.41,1.09,92.98,65.85,Private,High Cost,2021
+Kenya,5G Expansion,Hybrid,54.15,1.6,91.06,59.73,Government,Skilled Manpower Shortage,2020
+Ethiopia,5G Expansion,5G OAS,67.16,1.99,96.87,61.16,Private,GNSS Interference,2021
+Ghana,BharatNet,TSN,55.17,0.96,96.92,68.66,Government,RoW Delays,2019
+India,5G Expansion,Hybrid,65.42,1.74,93.76,70.57,PPP,GNSS Interference,2021
+South Africa,LEO Pilot,TSN,65.08,1.91,97.76,58.5,PPP,GNSS Interference,2025
+Ethiopia,RuralNet,Hybrid,83.18,1.95,91.39,53.58,Private,Cybersecurity,2019
+South Africa,LEO Pilot,5G GNSS,73.63,1.37,96.14,55.21,Private,RoW Delays,2025
+Ghana,RuralNet,5G GNSS,52.0,1.52,92.6,68.87,PPP,High Cost,2024
+Nigeria,RuralNet,5G GNSS,64.19,1.03,92.43,52.17,Private,GNSS Interference,2024
+Tanzania,Digital India,Fiber,52.31,1.56,91.74,60.91,Private,RoW Delays,2018
+Ghana,Fiber Africa,5G GNSS,57.72,1.41,90.78,67.43,Private,RoW Delays,2018
+Ethiopia,Fiber Africa,Satellite,70.03,1.07,91.1,74.33,Government,Integration Complexity,2024
+Tanzania,BharatNet,Hybrid,75.83,1.36,95.24,73.18,PPP,High Cost,2021
+South Africa,Smart Village,5G OAS,83.81,1.3,96.75,67.84,Private,GNSS Interference,2021
+Tanzania,Fiber Africa,Fiber,70.08,1.11,98.66,62.56,Government,GNSS Interference,2022
+South Africa,Digital India,Hybrid,81.0,1.62,91.93,64.04,PPP,Cybersecurity,2023
+South Africa,Smart Village,5G OAS,48.25,1.02,92.58,73.62,Government,RoW Delays,2021
+India,RuralNet,Fiber,48.63,1.09,96.17,51.18,PPP,Skilled Manpower Shortage,2024
+India,Smart Village,TSN,63.4,1.55,93.06,63.94,PPP,Cybersecurity,2018
+Tanzania,5G Expansion,Hybrid,45.55,1.54,94.61,72.5,Private,Cybersecurity,2022
+Nigeria,LEO Pilot,5G GNSS,68.38,1.76,97.47,66.99,Private,Integration Complexity,2024
+India,Smart Village,5G GNSS,45.84,1.32,90.88,70.98,Private,High Cost,2024
+Tanzania,Digital India,5G OAS,70.16,1.09,91.96,54.52,PPP,GNSS Interference,2022
+Ethiopia,5G Expansion,5G GNSS,79.43,1.51,90.35,72.79,PPP,GNSS Interference,2021
+India,Fiber Africa,Fiber,80.58,1.1,92.31,63.0,PPP,Integration Complexity,2024
+India,Smart Village,TSN,56.46,1.63,91.34,53.94,PPP,RoW Delays,2023
+India,Digital India,Fiber,64.16,0.89,96.56,62.33,PPP,Integration Complexity,2019
+Ghana,5G Expansion,Fiber,64.34,1.47,93.86,70.77,Government,High Cost,2024
+Kenya,LEO Pilot,TSN,66.78,1.54,94.17,57.79,Private,Cybersecurity,2019
+South Africa,Digital India,5G GNSS,68.74,1.09,97.58,64.38,Government,Skilled Manpower Shortage,2018
+South Africa,Digital India,Fiber,61.81,1.73,97.06,59.94,Government,High Cost,2024
+Tanzania,5G Expansion,TSN,68.79,1.13,96.88,55.3,PPP,Skilled Manpower Shortage,2019
+Nigeria,LEO Pilot,5G GNSS,81.09,1.46,94.28,52.07,PPP,High Cost,2018
+Tanzania,Fiber Africa,5G OAS,48.4,1.88,96.18,56.75,Private,GNSS Interference,2018
+Ghana,Smart Village,Hybrid,66.45,1.95,90.88,60.2,PPP,GNSS Interference,2024
+Tanzania,Digital India,5G OAS,70.08,0.9,98.62,53.59,Private,Integration Complexity,2021
+India,Smart Village,5G GNSS,48.16,1.58,97.89,65.74,PPP,GNSS Interference,2023
+South Africa,RuralNet,Satellite,50.58,1.68,94.28,74.73,PPP,High Cost,2025
+Nigeria,5G Expansion,5G GNSS,55.19,0.96,93.22,57.9,Government,Cybersecurity,2020
+Tanzania,Smart Village,5G OAS,70.54,0.88,97.93,55.58,Government,RoW Delays,2018
+Tanzania,LEO Pilot,TSN,67.34,1.05,92.63,54.75,Private,Cybersecurity,2023
+India,Fiber Africa,5G GNSS,76.19,1.09,95.53,54.23,Private,RoW Delays,2024
+Ghana,BharatNet,Satellite,66.11,1.2,90.6,71.39,PPP,High Cost,2022
+Ghana,Smart Village,5G GNSS,76.6,0.93,98.47,65.55,Government,GNSS Interference,2019
+Ghana,RuralNet,Hybrid,56.91,0.83,96.02,68.71,Private,Skilled Manpower Shortage,2021
+India,Fiber Africa,5G OAS,48.51,1.57,91.19,71.43,PPP,Skilled Manpower Shortage,2018
+Nigeria,LEO Pilot,Hybrid,50.09,1.66,91.19,74.37,Private,High Cost,2020
+Nigeria,Digital India,5G OAS,82.77,1.62,91.27,61.0,Private,Cybersecurity,2018
+India,Digital India,TSN,69.97,1.51,90.07,56.69,Government,High Cost,2021
+Tanzania,Fiber Africa,5G OAS,45.14,1.7,90.65,53.46,Private,GNSS Interference,2019
+South Africa,RuralNet,Satellite,61.87,1.35,96.53,59.69,PPP,Skilled Manpower Shortage,2022
+Ethiopia,Digital India,5G GNSS,66.41,1.8,94.77,59.39,Government,High Cost,2022
+Ethiopia,LEO Pilot,Satellite,82.47,1.69,91.69,63.23,Government,Integration Complexity,2025
+Tanzania,LEO Pilot,Fiber,72.39,1.2,96.15,57.26,PPP,GNSS Interference,2020
+Tanzania,Digital India,Fiber,53.7,1.77,98.85,65.37,Private,Skilled Manpower Shortage,2020
+Ethiopia,LEO Pilot,Hybrid,67.39,1.44,97.95,63.82,Private,Cybersecurity,2019
+Tanzania,Digital India,Satellite,53.42,1.84,92.41,50.86,Government,High Cost,2023
+South Africa,5G Expansion,TSN,64.52,1.01,94.45,55.98,Private,Integration Complexity,2018
+Ghana,BharatNet,TSN,46.13,1.24,92.05,67.51,Private,Integration Complexity,2018
+Ethiopia,Digital India,Fiber,69.88,1.29,92.25,73.25,Private,Cybersecurity,2018
+Kenya,Digital India,Fiber,82.09,1.1,90.96,61.08,PPP,Integration Complexity,2020
+Nigeria,RuralNet,5G OAS,71.48,1.56,94.57,62.72,Government,RoW Delays,2024
+Tanzania,BharatNet,TSN,78.24,1.92,91.99,63.35,Government,Cybersecurity,2020
+India,RuralNet,5G GNSS,58.08,1.15,91.78,68.88,PPP,RoW Delays,2020
+South Africa,LEO Pilot,TSN,64.78,1.71,97.11,57.97,PPP,Cybersecurity,2020
+South Africa,5G Expansion,Satellite,70.5,0.98,91.93,50.82,PPP,High Cost,2019
+India,LEO Pilot,Satellite,61.03,1.4,93.21,50.67,Private,GNSS Interference,2024
+Tanzania,Smart Village,5G GNSS,46.8,1.54,92.53,74.74,Private,GNSS Interference,2020
+Ghana,RuralNet,Satellite,65.88,0.85,95.67,59.78,Private,Skilled Manpower Shortage,2023
+Tanzania,Fiber Africa,Hybrid,76.41,1.14,95.03,60.22,Private,High Cost,2018
+Nigeria,BharatNet,Satellite,51.09,1.22,91.03,57.12,PPP,GNSS Interference,2021
+Ghana,5G Expansion,5G OAS,81.47,1.2,98.29,53.03,Government,RoW Delays,2024
+Nigeria,5G Expansion,Hybrid,74.28,1.49,91.27,57.04,Private,GNSS Interference,2025
+Tanzania,LEO Pilot,TSN,71.99,1.53,92.66,60.68,PPP,High Cost,2021
+South Africa,LEO Pilot,Satellite,63.34,1.56,96.52,57.07,Government,Skilled Manpower Shortage,2023
+Kenya,Digital India,Hybrid,72.92,1.85,90.86,50.27,PPP,RoW Delays,2022
+Ethiopia,Fiber Africa,Hybrid,46.86,1.14,91.86,70.54,Government,RoW Delays,2024
+India,Smart Village,Hybrid,50.65,1.03,90.55,71.4,PPP,RoW Delays,2021
+Ghana,RuralNet,5G GNSS,64.32,0.95,95.38,72.48,Private,Skilled Manpower Shortage,2018
+Kenya,Digital India,5G GNSS,80.62,1.93,91.14,66.95,Private,Integration Complexity,2018
+Tanzania,Digital India,5G OAS,58.79,1.27,94.77,70.32,PPP,GNSS Interference,2020
+Ghana,5G Expansion,5G OAS,56.14,1.76,92.07,52.28,Private,Cybersecurity,2020
+India,BharatNet,Hybrid,82.29,1.89,98.48,60.73,Government,High Cost,2023
+Nigeria,LEO Pilot,TSN,71.34,1.0,95.36,60.45,Government,High Cost,2021
+Tanzania,Digital India,5G OAS,51.07,1.11,96.04,71.78,Government,Integration Complexity,2021
+Nigeria,Fiber Africa,Satellite,55.56,1.67,92.0,66.8,Private,Skilled Manpower Shortage,2022
+South Africa,5G Expansion,Hybrid,57.86,1.95,93.16,73.67,PPP,Skilled Manpower Shortage,2023
+Ghana,Smart Village,TSN,63.23,1.29,95.08,72.47,PPP,Cybersecurity,2018
+Tanzania,Fiber Africa,5G OAS,66.76,0.9,92.38,70.89,Private,Skilled Manpower Shortage,2022
+Tanzania,Digital India,Hybrid,55.12,1.77,93.12,74.41,PPP,Cybersecurity,2022
+Ethiopia,BharatNet,TSN,80.68,0.97,91.89,74.9,PPP,Integration Complexity,2022
+South Africa,RuralNet,5G GNSS,69.81,1.41,90.54,57.35,PPP,Cybersecurity,2024
+South Africa,Smart Village,5G GNSS,65.66,1.45,93.36,61.22,PPP,Integration Complexity,2023
+Tanzania,Fiber Africa,Fiber,73.24,1.44,98.1,59.97,Government,Skilled Manpower Shortage,2018
+Tanzania,RuralNet,TSN,79.71,1.6,98.96,74.49,Government,High Cost,2022
+Nigeria,Smart Village,5G GNSS,84.51,0.91,98.58,67.22,Private,GNSS Interference,2021
+Tanzania,LEO Pilot,Hybrid,79.45,1.57,91.27,65.71,Government,High Cost,2019
+Nigeria,BharatNet,5G OAS,73.32,1.21,90.43,55.87,PPP,GNSS Interference,2023
+Ghana,Digital India,Hybrid,68.22,1.91,94.38,73.89,Government,Integration Complexity,2024
+Ethiopia,LEO Pilot,5G GNSS,82.57,1.93,91.17,56.73,Government,High Cost,2022
+Ghana,Fiber Africa,Satellite,56.94,1.76,96.18,50.81,Private,GNSS Interference,2020
+India,Digital India,5G GNSS,83.67,1.64,92.15,62.99,Government,RoW Delays,2025
+Ethiopia,BharatNet,TSN,78.55,1.01,97.16,56.06,PPP,RoW Delays,2025
+Ethiopia,BharatNet,5G OAS,84.43,1.43,98.09,74.61,PPP,High Cost,2018
+India,RuralNet,Satellite,49.72,1.87,94.68,73.06,Government,High Cost,2018
+Ethiopia,Smart Village,TSN,64.99,1.13,90.44,67.5,Government,Integration Complexity,2024
+Ghana,Digital India,5G OAS,45.37,1.99,90.85,69.81,PPP,RoW Delays,2022
+South Africa,LEO Pilot,TSN,58.24,0.9,95.67,69.91,Government,RoW Delays,2021
+Kenya,Digital India,Satellite,75.55,1.63,98.93,64.43,Government,GNSS Interference,2023
+Ethiopia,BharatNet,Satellite,68.88,1.78,95.54,73.91,Private,Cybersecurity,2023
+Tanzania,Digital India,TSN,66.93,1.35,97.18,64.56,Government,Integration Complexity,2019
+Ghana,BharatNet,5G GNSS,75.16,1.78,93.89,64.03,Government,High Cost,2019
+Nigeria,Smart Village,Hybrid,63.25,1.18,91.61,50.06,Private,GNSS Interference,2024
+Kenya,BharatNet,5G OAS,49.9,1.27,94.89,62.19,PPP,Skilled Manpower Shortage,2024
+South Africa,Fiber Africa,5G OAS,56.87,1.38,98.12,57.84,Private,Integration Complexity,2025
+India,Fiber Africa,TSN,55.7,1.21,90.17,59.47,Private,GNSS Interference,2018
+South Africa,5G Expansion,Satellite,45.13,1.55,94.57,58.32,Government,Integration Complexity,2018
+Tanzania,5G Expansion,5G GNSS,63.17,1.44,95.79,51.21,Government,GNSS Interference,2020
+India,LEO Pilot,Hybrid,47.21,1.2,93.87,51.34,Private,RoW Delays,2025
+Tanzania,Fiber Africa,5G OAS,47.58,1.95,93.78,63.01,Private,GNSS Interference,2025
+India,BharatNet,TSN,49.88,1.18,97.28,65.03,Government,Cybersecurity,2019
+Kenya,5G Expansion,5G OAS,77.51,1.03,91.16,71.23,Private,Skilled Manpower Shortage,2024
+Tanzania,Fiber Africa,5G OAS,68.72,1.06,93.07,72.7,Private,Integration Complexity,2024
+Nigeria,BharatNet,Hybrid,81.73,1.34,96.6,58.7,Government,High Cost,2025
+South Africa,5G Expansion,5G GNSS,72.54,1.71,90.54,51.34,Government,Cybersecurity,2023
+Kenya,Fiber Africa,Fiber,48.7,1.82,91.38,66.09,Private,High Cost,2019
+Kenya,RuralNet,5G OAS,55.16,0.88,91.39,58.22,Government,RoW Delays,2025
+Ethiopia,LEO Pilot,TSN,65.2,1.51,93.66,63.68,PPP,Integration Complexity,2019
+Tanzania,5G Expansion,Fiber,71.38,1.18,90.21,55.08,PPP,Integration Complexity,2021
+Nigeria,5G Expansion,Satellite,69.19,1.89,94.64,56.58,PPP,GNSS Interference,2023
+India,Fiber Africa,Satellite,60.27,1.05,92.14,68.68,Private,Skilled Manpower Shortage,2020
+India,BharatNet,5G GNSS,76.88,1.94,91.56,61.53,Private,GNSS Interference,2019
+India,BharatNet,Fiber,62.7,1.38,96.88,56.29,PPP,Cybersecurity,2021
+Ethiopia,Fiber Africa,Fiber,61.12,1.06,90.6,68.21,PPP,RoW Delays,2024
+Nigeria,Digital India,5G OAS,73.22,1.21,97.64,68.57,PPP,Integration Complexity,2024
+Ethiopia,5G Expansion,Fiber,52.53,1.82,90.81,63.72,PPP,GNSS Interference,2024
+Nigeria,RuralNet,Satellite,78.3,1.05,91.77,60.36,Private,High Cost,2024
+Kenya,RuralNet,5G GNSS,59.16,1.79,92.57,65.98,Government,Skilled Manpower Shortage,2025
+South Africa,RuralNet,TSN,80.97,1.69,92.71,68.11,PPP,High Cost,2025
+Nigeria,RuralNet,5G OAS,52.51,1.28,98.62,66.91,PPP,High Cost,2023
+Ethiopia,5G Expansion,Fiber,76.3,0.83,98.1,66.46,PPP,GNSS Interference,2023
+Ghana,LEO Pilot,Hybrid,81.8,1.39,94.45,64.07,PPP,Cybersecurity,2023
+Ghana,BharatNet,5G GNSS,48.53,1.53,91.41,50.13,Government,RoW Delays,2023
+Kenya,Digital India,Satellite,79.5,1.37,96.75,72.51,Government,RoW Delays,2019
+Ethiopia,BharatNet,Fiber,58.69,0.87,91.14,67.0,PPP,Skilled Manpower Shortage,2018
+Kenya,Digital India,Satellite,67.31,1.47,93.96,56.35,PPP,GNSS Interference,2025
+Ghana,LEO Pilot,5G GNSS,82.73,1.85,96.67,67.5,Government,Skilled Manpower Shortage,2023
+Tanzania,BharatNet,Satellite,71.22,1.76,94.66,57.84,Government,RoW Delays,2023
+Ethiopia,LEO Pilot,Fiber,62.24,0.87,95.87,73.1,PPP,RoW Delays,2020
+Tanzania,5G Expansion,Fiber,58.37,1.93,95.74,65.27,Private,Skilled Manpower Shortage,2023
+India,Digital India,Fiber,59.76,1.64,91.89,55.05,PPP,GNSS Interference,2021
+Ghana,BharatNet,Hybrid,45.41,1.32,94.1,56.02,Private,Cybersecurity,2024
+India,Fiber Africa,5G OAS,57.24,1.77,97.72,67.83,Private,High Cost,2019
+India,Fiber Africa,Fiber,50.79,1.14,96.31,72.86,Government,High Cost,2025
+Nigeria,RuralNet,Hybrid,45.64,1.18,91.99,68.58,Government,GNSS Interference,2019
+Ethiopia,LEO Pilot,Satellite,83.84,0.99,95.24,63.09,Private,RoW Delays,2024
+Ethiopia,Digital India,TSN,70.34,1.7,91.97,65.81,Government,GNSS Interference,2022
+Tanzania,LEO Pilot,Hybrid,58.2,1.88,91.02,60.21,Government,RoW Delays,2022
+Ghana,Digital India,Fiber,79.82,0.92,93.43,59.4,Private,Integration Complexity,2023
+India,5G Expansion,TSN,69.68,1.92,94.38,65.88,Private,Integration Complexity,2025
+Kenya,RuralNet,TSN,47.47,1.72,91.13,55.09,Government,Skilled Manpower Shortage,2024
+South Africa,5G Expansion,Hybrid,66.45,1.01,94.98,54.87,PPP,Skilled Manpower Shortage,2018
+Kenya,LEO Pilot,Satellite,48.37,1.17,90.68,51.93,PPP,GNSS Interference,2023
+India,LEO Pilot,Hybrid,77.24,0.83,96.0,66.68,Government,High Cost,2022
+Tanzania,Smart Village,TSN,45.23,1.04,98.33,70.0,Government,RoW Delays,2023
+Nigeria,Fiber Africa,5G GNSS,48.67,0.97,90.13,65.6,Government,Integration Complexity,2023
+Tanzania,Smart Village,Satellite,64.9,1.2,97.34,64.05,PPP,Integration Complexity,2020
+Tanzania,LEO Pilot,TSN,68.24,1.44,91.62,74.38,Private,Skilled Manpower Shortage,2020
+Kenya,Fiber Africa,5G GNSS,67.4,1.04,96.24,54.72,PPP,High Cost,2024
+India,RuralNet,5G OAS,73.64,1.03,97.17,61.34,PPP,GNSS Interference,2018
+South Africa,RuralNet,Fiber,77.16,1.92,93.37,55.3,PPP,High Cost,2021
+South Africa,Smart Village,5G OAS,53.62,0.82,90.43,61.8,Government,Cybersecurity,2023
+Kenya,BharatNet,Hybrid,72.09,1.13,91.28,66.34,Private,Skilled Manpower Shortage,2020
+Tanzania,BharatNet,Hybrid,47.34,1.2,95.61,52.18,PPP,RoW Delays,2019
+Tanzania,Digital India,Satellite,84.31,1.82,90.24,65.13,Government,Cybersecurity,2023
+South Africa,Smart Village,Fiber,78.96,0.99,98.09,71.54,Private,Cybersecurity,2020
+Ethiopia,Fiber Africa,Satellite,64.64,1.34,98.13,73.05,Private,RoW Delays,2021
+Kenya,LEO Pilot,TSN,65.95,1.39,98.87,62.43,PPP,Integration Complexity,2018
+Kenya,RuralNet,Hybrid,58.42,1.3,90.53,58.7,PPP,Integration Complexity,2021
+Ethiopia,RuralNet,5G OAS,48.4,1.96,97.77,73.02,Government,High Cost,2023
+India,Digital India,5G OAS,49.97,1.34,95.32,56.82,Private,Skilled Manpower Shortage,2018
+South Africa,Fiber Africa,Hybrid,77.18,1.43,97.59,58.04,Private,GNSS Interference,2025
+Ghana,Fiber Africa,TSN,75.28,0.85,93.58,58.8,PPP,GNSS Interference,2023
+Kenya,5G Expansion,5G OAS,64.93,1.9,97.98,51.67,Government,High Cost,2023
+Kenya,Smart Village,Hybrid,69.67,0.8,93.66,55.09,PPP,RoW Delays,2020
+Nigeria,RuralNet,Satellite,60.49,1.65,95.33,52.33,PPP,Skilled Manpower Shortage,2024
+Ethiopia,5G Expansion,Satellite,74.83,0.87,90.43,66.83,PPP,Skilled Manpower Shortage,2019
+South Africa,Fiber Africa,Hybrid,59.82,1.18,92.58,53.55,Government,RoW Delays,2023
+South Africa,5G Expansion,Hybrid,59.25,1.61,94.04,58.95,PPP,Integration Complexity,2020
+Tanzania,Digital India,Hybrid,61.77,1.04,93.02,70.78,PPP,GNSS Interference,2022
+Tanzania,5G Expansion,Satellite,75.52,1.85,96.42,55.22,PPP,RoW Delays,2024
+South Africa,BharatNet,TSN,83.87,1.59,98.36,60.89,Government,High Cost,2018
+Ethiopia,Digital India,Satellite,73.19,1.18,98.85,66.97,Private,Integration Complexity,2020
+Kenya,Smart Village,Fiber,53.11,1.0,94.91,64.76,Private,Skilled Manpower Shortage,2024
+Nigeria,RuralNet,Fiber,80.98,1.63,95.46,65.14,Private,Skilled Manpower Shortage,2021
+Kenya,Digital India,Fiber,54.94,1.02,96.64,74.68,Private,Cybersecurity,2020
+Ghana,Fiber Africa,5G OAS,47.18,1.87,91.71,74.91,Private,Integration Complexity,2022
+India,Smart Village,5G OAS,78.5,1.48,95.13,74.37,Private,Cybersecurity,2019
+India,Smart Village,Satellite,67.13,0.99,95.47,56.33,Government,Cybersecurity,2025
+South Africa,5G Expansion,Fiber,64.4,1.51,93.28,64.01,Government,Cybersecurity,2024
+Ethiopia,Smart Village,TSN,76.4,1.02,93.25,53.7,PPP,Skilled Manpower Shortage,2025
+South Africa,5G Expansion,5G OAS,80.12,0.92,91.07,66.99,Government,GNSS Interference,2022
+India,LEO Pilot,5G OAS,67.45,0.99,98.86,68.87,Government,GNSS Interference,2025
+Ethiopia,LEO Pilot,5G OAS,55.7,1.7,98.11,61.42,Private,Integration Complexity,2022
+Ethiopia,Digital India,Hybrid,75.92,1.47,93.26,60.29,Private,Cybersecurity,2018
+Nigeria,Digital India,Fiber,84.95,1.12,95.0,74.01,Government,RoW Delays,2023
+Tanzania,5G Expansion,Hybrid,50.59,1.46,98.28,71.58,PPP,Skilled Manpower Shortage,2024
+Tanzania,RuralNet,5G GNSS,55.99,1.15,94.65,64.34,Private,Skilled Manpower Shortage,2025
+Tanzania,5G Expansion,Hybrid,82.3,1.09,93.52,58.53,Government,Integration Complexity,2023
+Ghana,RuralNet,Satellite,51.97,1.41,96.93,74.79,Private,RoW Delays,2018
+Ethiopia,Smart Village,Hybrid,74.96,1.44,92.14,72.82,Government,GNSS Interference,2024
+South Africa,RuralNet,5G OAS,76.52,1.81,93.33,56.45,Government,RoW Delays,2020
+Ghana,LEO Pilot,TSN,78.52,0.98,92.06,62.19,Private,RoW Delays,2020
+India,5G Expansion,Fiber,58.97,1.01,97.75,60.41,Government,Skilled Manpower Shortage,2022
+India,BharatNet,5G OAS,74.03,1.21,98.09,69.64,PPP,Integration Complexity,2019
+Kenya,Digital India,Satellite,78.86,1.65,95.74,70.59,Government,High Cost,2023
+South Africa,Fiber Africa,Fiber,79.55,1.45,94.72,56.67,Private,GNSS Interference,2025
+Nigeria,5G Expansion,5G OAS,62.42,0.87,98.67,62.04,Private,RoW Delays,2022
+Kenya,Fiber Africa,Hybrid,65.84,1.27,98.34,69.62,Private,RoW Delays,2023
+South Africa,Smart Village,TSN,52.09,1.92,98.33,74.53,PPP,GNSS Interference,2020
+Nigeria,Fiber Africa,Fiber,73.4,0.83,94.83,57.67,PPP,GNSS Interference,2023
+Tanzania,Smart Village,5G GNSS,77.01,1.42,98.81,63.4,PPP,GNSS Interference,2022
+Ghana,BharatNet,Hybrid,70.44,1.63,90.1,68.98,Private,Cybersecurity,2020
+Tanzania,5G Expansion,5G OAS,66.33,1.24,97.97,55.91,Government,Skilled Manpower Shortage,2023
+India,Fiber Africa,Satellite,60.18,1.11,90.14,58.11,Private,Integration Complexity,2022
+India,BharatNet,5G GNSS,56.26,1.58,92.58,66.1,PPP,Integration Complexity,2022
+Ghana,BharatNet,Hybrid,61.78,1.17,97.08,74.95,Private,Integration Complexity,2025
+Ethiopia,Smart Village,TSN,79.95,1.08,97.72,65.83,PPP,Integration Complexity,2018
+South Africa,LEO Pilot,TSN,59.86,1.9,90.14,55.88,Government,Integration Complexity,2021
+Nigeria,Digital India,Fiber,45.05,1.74,97.25,59.33,Private,High Cost,2021
+Tanzania,Fiber Africa,5G OAS,58.24,1.37,94.19,70.37,Government,GNSS Interference,2024
+Kenya,Smart Village,Hybrid,49.7,1.35,93.46,69.28,Private,Integration Complexity,2025
+Ethiopia,Digital India,5G GNSS,57.96,1.04,90.18,71.0,PPP,Skilled Manpower Shortage,2025
+Kenya,RuralNet,Fiber,70.59,1.42,97.12,56.19,PPP,Cybersecurity,2022
+Ghana,Smart Village,Fiber,84.92,1.26,95.26,66.17,Private,Integration Complexity,2022
+Tanzania,Smart Village,5G OAS,56.34,1.17,93.38,64.99,Government,RoW Delays,2024
+Kenya,Fiber Africa,5G GNSS,60.07,0.87,96.3,74.25,Private,Integration Complexity,2025
+Ethiopia,LEO Pilot,Fiber,49.57,1.53,92.53,51.01,Private,Skilled Manpower Shortage,2021
+Nigeria,5G Expansion,5G GNSS,63.63,1.19,94.4,52.71,Private,RoW Delays,2023
+Ghana,5G Expansion,5G GNSS,54.6,1.95,92.04,64.62,Private,Cybersecurity,2020
+India,RuralNet,5G OAS,54.6,1.26,94.8,66.77,Private,Skilled Manpower Shortage,2018
+Ethiopia,Fiber Africa,Fiber,57.29,1.27,91.79,58.85,Private,High Cost,2021
+Kenya,Digital India,5G GNSS,81.25,1.3,97.66,72.26,Government,Skilled Manpower Shortage,2020
+Ethiopia,LEO Pilot,Hybrid,45.94,1.17,91.65,74.57,PPP,Integration Complexity,2025
+Tanzania,BharatNet,5G GNSS,71.65,1.07,93.58,56.46,PPP,Skilled Manpower Shortage,2020
+Nigeria,Digital India,5G GNSS,47.76,1.16,91.6,73.99,Government,GNSS Interference,2025
+Nigeria,5G Expansion,Satellite,82.55,0.97,94.65,50.15,Private,GNSS Interference,2018
+Kenya,LEO Pilot,5G OAS,47.82,1.12,98.83,73.17,Private,Cybersecurity,2025
+Kenya,RuralNet,Hybrid,56.12,1.77,93.03,59.74,Private,High Cost,2021
+Tanzania,RuralNet,5G GNSS,74.81,0.96,92.33,70.94,PPP,Integration Complexity,2021
+Kenya,LEO Pilot,Fiber,72.57,1.68,98.36,70.5,Government,RoW Delays,2018
+India,Fiber Africa,5G GNSS,80.05,1.84,96.93,67.82,PPP,Integration Complexity,2024
+Ethiopia,RuralNet,5G OAS,70.73,1.95,97.51,59.57,PPP,RoW Delays,2018
+Nigeria,Fiber Africa,TSN,63.88,1.6,94.16,68.49,PPP,High Cost,2022
+Tanzania,Fiber Africa,Satellite,58.2,1.07,94.85,51.59,Private,Skilled Manpower Shortage,2021
+Ethiopia,5G Expansion,5G GNSS,61.4,1.13,95.66,60.32,PPP,Cybersecurity,2022
+Kenya,LEO Pilot,Hybrid,77.54,1.48,93.65,59.93,Government,Cybersecurity,2019
+Nigeria,Smart Village,Satellite,69.6,1.08,95.57,60.46,PPP,GNSS Interference,2023
+India,BharatNet,Fiber,65.14,2.0,98.23,73.12,Private,Skilled Manpower Shortage,2024
+Ethiopia,Fiber Africa,5G OAS,68.13,0.99,91.96,65.68,PPP,High Cost,2020
+Ethiopia,Smart Village,5G GNSS,47.73,1.85,92.93,74.2,PPP,Cybersecurity,2019
+Ghana,5G Expansion,Fiber,74.54,0.91,93.9,51.94,Private,Skilled Manpower Shortage,2023
+Nigeria,5G Expansion,5G GNSS,48.18,1.5,95.01,61.59,Private,Cybersecurity,2021
+Nigeria,Digital India,TSN,53.76,1.88,92.6,60.68,PPP,Cybersecurity,2019
+India,Fiber Africa,Fiber,46.88,1.7,91.38,72.9,Government,Skilled Manpower Shortage,2019
+Ethiopia,Digital India,Fiber,75.16,1.81,90.26,55.3,Private,High Cost,2022
+Ghana,LEO Pilot,5G OAS,79.99,1.47,92.71,57.87,PPP,GNSS Interference,2024
+Kenya,5G Expansion,5G OAS,49.55,1.36,95.57,64.92,Private,Cybersecurity,2019
+Ethiopia,RuralNet,5G GNSS,64.36,1.69,95.07,60.03,PPP,Cybersecurity,2023
+South Africa,Digital India,TSN,57.52,1.35,95.37,56.51,Government,Cybersecurity,2019
+Ghana,BharatNet,5G GNSS,73.03,0.92,91.64,68.98,Private,High Cost,2018
+Tanzania,Smart Village,Hybrid,78.88,0.82,90.7,50.97,Private,Integration Complexity,2025
+Kenya,5G Expansion,5G GNSS,46.67,1.91,92.13,59.05,PPP,GNSS Interference,2022
+Tanzania,Smart Village,Satellite,82.99,1.9,91.56,58.74,Private,High Cost,2019
+India,Digital India,5G OAS,78.35,0.95,96.0,50.81,Private,RoW Delays,2019
+Nigeria,Fiber Africa,5G GNSS,57.47,1.72,95.31,62.53,PPP,High Cost,2025
+Tanzania,Digital India,5G GNSS,82.62,1.31,90.23,55.0,Private,Integration Complexity,2018
+India,BharatNet,TSN,58.65,1.97,98.6,62.57,PPP,GNSS Interference,2022
+Ethiopia,Smart Village,5G GNSS,54.22,0.83,90.46,64.77,Government,High Cost,2021
+Kenya,Smart Village,5G OAS,54.83,1.0,96.12,60.15,Government,Cybersecurity,2025
+Ethiopia,RuralNet,5G OAS,80.66,0.9,93.59,58.95,PPP,Skilled Manpower Shortage,2023
+South Africa,BharatNet,Fiber,71.1,0.82,96.17,50.47,PPP,GNSS Interference,2018
+India,5G Expansion,TSN,65.18,1.97,94.25,64.78,PPP,Integration Complexity,2018
+India,Fiber Africa,Fiber,60.78,1.24,94.47,63.71,PPP,Integration Complexity,2025
+Tanzania,LEO Pilot,5G OAS,73.97,1.47,93.04,68.46,Private,RoW Delays,2023
+South Africa,RuralNet,5G GNSS,70.49,1.82,90.8,51.53,Government,Cybersecurity,2023
+Nigeria,LEO Pilot,TSN,81.57,1.62,90.37,67.58,PPP,Cybersecurity,2024
+Kenya,LEO Pilot,Hybrid,68.79,1.15,98.74,63.05,PPP,High Cost,2020
+Tanzania,RuralNet,TSN,70.77,1.18,92.44,58.32,PPP,Skilled Manpower Shortage,2019
+Ethiopia,Smart Village,TSN,84.5,0.81,97.94,57.76,Private,GNSS Interference,2021
+Ethiopia,BharatNet,5G GNSS,68.61,1.38,91.63,57.01,Government,Integration Complexity,2024
+Tanzania,LEO Pilot,5G GNSS,61.41,1.08,96.12,65.86,Government,Cybersecurity,2019
+Ethiopia,5G Expansion,Hybrid,70.3,1.32,93.92,72.75,Private,Skilled Manpower Shortage,2025
+Kenya,BharatNet,5G GNSS,57.92,1.32,98.17,61.4,Private,Integration Complexity,2024
+Kenya,5G Expansion,5G GNSS,63.21,1.75,98.94,56.36,Government,GNSS Interference,2020
+India,5G Expansion,Fiber,61.01,1.08,98.11,73.97,Private,Integration Complexity,2022
+Ghana,Digital India,Satellite,69.9,1.24,93.76,73.19,Private,Integration Complexity,2025
+South Africa,LEO Pilot,Hybrid,56.86,1.09,95.09,61.49,PPP,RoW Delays,2019
+Kenya,BharatNet,TSN,78.08,1.84,91.94,72.21,Government,Skilled Manpower Shortage,2022
+Ghana,RuralNet,Satellite,60.42,0.84,96.8,70.84,PPP,Cybersecurity,2021
+Ghana,Smart Village,Hybrid,65.6,1.29,97.11,74.92,PPP,Integration Complexity,2020
+Ethiopia,Digital India,Hybrid,54.72,1.81,96.75,70.14,Private,Skilled Manpower Shortage,2025
+Ghana,Smart Village,5G GNSS,66.55,1.38,98.63,54.64,Private,High Cost,2019
+Ghana,RuralNet,TSN,71.13,1.25,93.07,63.97,PPP,RoW Delays,2018
+South Africa,RuralNet,TSN,59.86,0.92,96.23,57.06,Government,RoW Delays,2018
+Ethiopia,5G Expansion,TSN,51.06,1.24,90.61,64.65,Government,Integration Complexity,2020
+South Africa,Fiber Africa,5G OAS,48.74,1.38,95.84,72.15,Government,RoW Delays,2025
+Nigeria,RuralNet,Fiber,55.31,1.5,95.55,60.72,Government,Skilled Manpower Shortage,2018
+Kenya,BharatNet,TSN,57.5,0.89,96.01,64.48,PPP,RoW Delays,2018
+South Africa,RuralNet,5G OAS,73.16,1.99,95.97,64.76,PPP,Skilled Manpower Shortage,2024
+India,LEO Pilot,Hybrid,78.63,1.55,97.29,64.32,PPP,RoW Delays,2023
+Kenya,Digital India,Satellite,48.76,1.93,91.85,62.97,Private,Cybersecurity,2018
+India,RuralNet,5G OAS,53.02,1.77,94.2,71.9,Private,RoW Delays,2022
+Nigeria,5G Expansion,Fiber,82.55,1.34,96.12,53.34,PPP,Skilled Manpower Shortage,2019
+Kenya,Smart Village,Fiber,46.66,1.56,98.08,70.47,Government,RoW Delays,2018
+Ghana,5G Expansion,Satellite,63.95,1.47,90.89,62.53,Private,Skilled Manpower Shortage,2021
+Tanzania,LEO Pilot,5G OAS,51.26,1.06,94.62,71.31,Private,Skilled Manpower Shortage,2025
+Tanzania,LEO Pilot,5G GNSS,65.05,1.13,90.0,54.71,PPP,Cybersecurity,2019
+Tanzania,BharatNet,Fiber,60.4,2.0,93.21,55.98,Private,Skilled Manpower Shortage,2022
+Nigeria,5G Expansion,Hybrid,46.42,1.84,95.22,74.35,Private,RoW Delays,2023
+Tanzania,RuralNet,5G GNSS,45.45,1.43,92.88,65.79,PPP,GNSS Interference,2019
+Tanzania,5G Expansion,5G GNSS,50.19,1.04,96.78,51.22,PPP,High Cost,2019
+Tanzania,LEO Pilot,Fiber,45.14,1.23,97.01,55.87,Private,Skilled Manpower Shortage,2020
+Kenya,Smart Village,Satellite,45.86,2.0,96.49,51.82,PPP,Cybersecurity,2018
+Kenya,Fiber Africa,Fiber,45.3,1.84,97.24,68.4,PPP,Skilled Manpower Shortage,2018
+Ghana,Digital India,5G OAS,71.69,1.62,93.6,51.88,Private,RoW Delays,2023
+Ghana,BharatNet,TSN,48.8,1.35,92.42,74.88,Government,Integration Complexity,2019
+Nigeria,Smart Village,Satellite,74.19,1.8,96.61,55.4,PPP,Integration Complexity,2020
+Ghana,Smart Village,5G GNSS,56.78,1.98,94.86,66.93,Government,Skilled Manpower Shortage,2018
+South Africa,Smart Village,5G GNSS,64.97,0.87,98.43,74.34,Government,Cybersecurity,2023
+Ghana,Smart Village,TSN,79.07,1.25,91.64,64.14,Private,High Cost,2020
+Kenya,BharatNet,Hybrid,52.67,1.65,96.51,61.84,Government,GNSS Interference,2019
+India,Digital India,TSN,75.17,1.01,96.23,64.86,PPP,High Cost,2018
+Nigeria,RuralNet,Satellite,67.72,1.15,95.92,58.09,Government,Cybersecurity,2019
+Tanzania,Digital India,5G OAS,64.68,1.83,96.74,61.21,Private,GNSS Interference,2020
+Tanzania,LEO Pilot,Satellite,72.72,1.77,96.55,72.97,Government,RoW Delays,2025
+Nigeria,Smart Village,5G OAS,62.8,1.01,90.48,63.34,Private,RoW Delays,2025
+South Africa,5G Expansion,TSN,79.89,1.94,94.93,58.98,PPP,High Cost,2019
+Nigeria,Smart Village,5G GNSS,78.94,1.12,90.9,73.63,Private,Integration Complexity,2019
+Ghana,Smart Village,TSN,75.33,1.24,97.26,65.13,Private,Integration Complexity,2024
+Tanzania,RuralNet,5G GNSS,56.95,1.52,96.57,59.13,PPP,GNSS Interference,2020
+Tanzania,LEO Pilot,Fiber,84.98,1.79,97.0,64.36,PPP,RoW Delays,2019
+Ghana,Digital India,TSN,82.51,1.73,98.6,68.77,Private,GNSS Interference,2019
+South Africa,BharatNet,5G OAS,60.24,1.28,96.88,64.22,Government,GNSS Interference,2024
+Ethiopia,Fiber Africa,5G GNSS,82.89,1.45,96.64,64.06,Government,RoW Delays,2018
+India,5G Expansion,Fiber,61.54,1.17,91.85,73.87,PPP,GNSS Interference,2020
+Ethiopia,Smart Village,TSN,49.55,1.77,92.4,62.62,Government,High Cost,2023
+India,RuralNet,TSN,69.0,1.79,95.06,59.18,Government,High Cost,2023
+Ghana,5G Expansion,5G OAS,58.68,1.04,91.08,58.13,Government,High Cost,2025
+Nigeria,5G Expansion,5G GNSS,65.04,1.26,93.38,50.28,Government,High Cost,2020
+India,Smart Village,TSN,51.07,0.81,92.13,53.19,Private,Cybersecurity,2023
+Tanzania,Digital India,5G OAS,60.23,1.39,96.96,62.15,Private,Skilled Manpower Shortage,2024
+Tanzania,Smart Village,5G GNSS,56.37,1.95,98.3,67.27,PPP,High Cost,2021
+Kenya,BharatNet,TSN,78.48,1.75,96.76,63.54,Government,GNSS Interference,2024
+South Africa,Fiber Africa,Satellite,70.61,1.8,93.81,52.39,Government,GNSS Interference,2018
+Ghana,LEO Pilot,5G GNSS,75.71,1.01,96.66,57.73,Government,GNSS Interference,2025
+Ghana,LEO Pilot,Hybrid,83.9,1.88,95.35,52.26,Government,Skilled Manpower Shortage,2025
+Tanzania,Digital India,Fiber,83.47,1.41,93.56,51.22,PPP,Skilled Manpower Shortage,2020
+Kenya,BharatNet,Fiber,59.0,1.62,90.09,60.69,PPP,Integration Complexity,2024
+Ethiopia,Digital India,Fiber,68.42,1.6,92.78,56.45,Private,Skilled Manpower Shortage,2019
+India,LEO Pilot,Satellite,58.18,0.92,93.9,61.39,PPP,Skilled Manpower Shortage,2023
+Tanzania,Fiber Africa,Hybrid,84.78,1.42,97.63,62.89,PPP,Integration Complexity,2023
+Tanzania,5G Expansion,Satellite,61.57,1.13,94.77,55.66,PPP,GNSS Interference,2019
+Ghana,Smart Village,Hybrid,62.68,1.51,95.88,51.41,PPP,GNSS Interference,2019
+India,5G Expansion,Satellite,52.04,1.53,97.0,51.38,Private,High Cost,2020
+Nigeria,Fiber Africa,Satellite,62.57,1.39,97.99,63.82,Private,Integration Complexity,2024
+Kenya,LEO Pilot,TSN,67.58,1.29,92.73,70.59,PPP,Skilled Manpower Shortage,2021
+South Africa,Fiber Africa,Hybrid,46.86,1.4,95.77,74.85,PPP,High Cost,2023
+Nigeria,Fiber Africa,5G OAS,53.58,1.25,93.61,70.64,Private,Cybersecurity,2019
+Nigeria,Smart Village,5G OAS,81.34,1.94,98.34,57.24,PPP,Cybersecurity,2025
+Tanzania,Digital India,Satellite,51.47,1.18,93.97,55.74,Government,Integration Complexity,2022
+India,Digital India,Satellite,45.71,1.68,95.95,52.46,PPP,Cybersecurity,2018
+Nigeria,Digital India,Hybrid,64.57,1.46,96.05,61.05,PPP,GNSS Interference,2022
+Nigeria,5G Expansion,TSN,48.26,1.49,92.0,55.63,Private,Cybersecurity,2021
+India,RuralNet,5G OAS,50.03,1.53,98.02,72.15,Government,Skilled Manpower Shortage,2025
+India,5G Expansion,Satellite,55.37,1.18,96.52,62.59,Government,GNSS Interference,2020
+India,5G Expansion,Hybrid,53.94,0.83,90.97,57.52,Private,Integration Complexity,2022
+Tanzania,Fiber Africa,5G GNSS,53.23,1.02,91.02,68.99,Government,RoW Delays,2022
+Ghana,Fiber Africa,5G OAS,76.46,1.5,92.77,69.85,Private,GNSS Interference,2023
+Kenya,LEO Pilot,Fiber,64.59,1.07,97.18,56.37,Government,RoW Delays,2018
+Ghana,RuralNet,Fiber,76.79,1.52,93.95,60.25,Private,Cybersecurity,2024
+India,RuralNet,Hybrid,80.97,1.04,95.22,70.21,Private,High Cost,2022
+South Africa,5G Expansion,Hybrid,56.64,1.28,93.27,74.56,Private,GNSS Interference,2020
+Tanzania,LEO Pilot,Satellite,68.46,1.25,98.63,65.62,PPP,GNSS Interference,2022
+Tanzania,BharatNet,Satellite,64.97,1.72,97.02,74.62,Private,RoW Delays,2021
+South Africa,Digital India,TSN,81.66,1.02,98.49,68.33,PPP,RoW Delays,2024
+Kenya,5G Expansion,Hybrid,47.68,0.92,90.93,62.43,PPP,Integration Complexity,2022
+India,RuralNet,5G OAS,75.24,1.21,92.45,61.27,Private,GNSS Interference,2024
+India,BharatNet,5G GNSS,76.67,1.01,92.79,56.92,Government,Integration Complexity,2018
+Ethiopia,LEO Pilot,Fiber,71.68,1.19,98.33,69.5,Government,High Cost,2025
+Nigeria,BharatNet,5G OAS,62.39,1.6,97.77,68.51,Government,Cybersecurity,2025
+Ethiopia,Fiber Africa,Fiber,71.3,1.64,95.77,54.24,Government,High Cost,2025
+Tanzania,BharatNet,5G OAS,79.85,1.04,91.35,51.4,Private,Cybersecurity,2021
+Nigeria,RuralNet,5G OAS,47.42,1.55,92.78,59.87,Government,Skilled Manpower Shortage,2021
+Nigeria,LEO Pilot,Fiber,75.15,1.87,90.63,71.19,Private,Skilled Manpower Shortage,2018
+India,Smart Village,TSN,47.89,1.86,94.75,58.35,PPP,Integration Complexity,2025
+Ethiopia,Digital India,Satellite,61.78,1.4,90.59,50.63,Government,GNSS Interference,2023
+Kenya,Smart Village,5G OAS,78.66,1.36,98.13,59.92,PPP,Skilled Manpower Shortage,2022
+Ghana,LEO Pilot,5G GNSS,75.53,1.14,92.24,73.15,Private,GNSS Interference,2022
+Nigeria,Smart Village,5G OAS,66.75,1.37,92.76,63.64,Private,Skilled Manpower Shortage,2024
+Ghana,5G Expansion,5G GNSS,60.48,1.6,98.35,69.0,Government,Skilled Manpower Shortage,2020
+South Africa,Fiber Africa,Fiber,77.61,1.99,97.03,53.24,Government,High Cost,2021
+Kenya,5G Expansion,TSN,78.41,1.88,93.8,72.96,Government,GNSS Interference,2023
+Ethiopia,5G Expansion,TSN,49.31,0.94,95.79,50.3,PPP,Integration Complexity,2018
+South Africa,Digital India,Hybrid,57.71,1.02,95.85,60.71,Private,Skilled Manpower Shortage,2022
+South Africa,5G Expansion,TSN,71.59,1.81,92.04,50.06,Government,High Cost,2018
+Tanzania,Smart Village,TSN,84.79,1.34,95.14,54.79,Government,High Cost,2025
+Nigeria,Fiber Africa,Satellite,71.48,1.28,97.83,64.63,PPP,Integration Complexity,2021
+Ghana,5G Expansion,Satellite,84.52,1.69,96.66,55.97,Private,Skilled Manpower Shortage,2022
+South Africa,Digital India,Hybrid,81.86,1.18,97.43,60.19,PPP,High Cost,2025
+India,LEO Pilot,Hybrid,49.98,1.85,95.88,53.98,Government,GNSS Interference,2021
+Ethiopia,5G Expansion,TSN,50.87,1.7,96.5,62.12,Private,Skilled Manpower Shortage,2020
+Ethiopia,5G Expansion,TSN,69.23,1.12,95.13,73.59,PPP,RoW Delays,2020
+Tanzania,RuralNet,Hybrid,72.26,1.16,98.26,63.94,PPP,Cybersecurity,2021
+Tanzania,Digital India,TSN,75.58,1.17,96.53,67.75,Private,Integration Complexity,2021
+Tanzania,LEO Pilot,5G GNSS,60.0,1.56,98.88,60.68,Government,High Cost,2020
+Kenya,BharatNet,TSN,50.47,1.51,98.96,59.57,PPP,GNSS Interference,2020
+Ghana,5G Expansion,Hybrid,68.14,1.57,91.46,57.46,PPP,Integration Complexity,2024
+South Africa,Smart Village,TSN,61.43,0.99,95.08,58.2,PPP,GNSS Interference,2022
+Ghana,RuralNet,Satellite,68.14,1.49,98.33,72.68,Private,Integration Complexity,2024
+Kenya,RuralNet,5G GNSS,59.18,1.5,94.83,71.09,Government,GNSS Interference,2019
+Ghana,Fiber Africa,5G OAS,71.34,1.8,94.35,58.07,Government,High Cost,2018
+Ethiopia,5G Expansion,5G OAS,70.08,1.59,96.61,56.66,Private,High Cost,2024
+Nigeria,Digital India,Hybrid,65.38,1.92,98.89,62.66,Government,Cybersecurity,2023
+India,RuralNet,5G GNSS,55.95,1.09,98.07,50.91,PPP,Integration Complexity,2024
+Kenya,Digital India,5G GNSS,81.12,1.18,96.54,72.89,Government,Skilled Manpower Shortage,2021
+Kenya,RuralNet,5G GNSS,63.63,1.88,94.73,62.42,Government,RoW Delays,2018
+Nigeria,BharatNet,Fiber,52.65,1.83,93.24,66.39,PPP,Cybersecurity,2024
+Ghana,Smart Village,5G OAS,68.69,1.61,97.23,50.18,PPP,Cybersecurity,2018
+Ethiopia,BharatNet,5G OAS,84.4,1.82,96.67,67.01,Government,GNSS Interference,2023
+South Africa,5G Expansion,Fiber,74.59,1.78,98.31,58.42,Private,Integration Complexity,2019
+Kenya,Fiber Africa,Hybrid,51.43,1.69,97.67,60.71,Government,GNSS Interference,2023
+Ethiopia,BharatNet,TSN,75.94,1.06,98.75,64.07,PPP,GNSS Interference,2018
+Ghana,RuralNet,Hybrid,58.32,1.89,91.56,69.49,Government,RoW Delays,2018
+Nigeria,Smart Village,TSN,66.13,1.07,93.48,66.67,Private,Skilled Manpower Shortage,2019
+Tanzania,Digital India,5G OAS,46.03,1.61,92.89,73.12,PPP,Integration Complexity,2024
+Kenya,5G Expansion,5G GNSS,58.56,1.19,98.88,72.61,Government,Integration Complexity,2019
+Ghana,RuralNet,Fiber,78.96,1.04,98.53,50.54,PPP,Cybersecurity,2023
+Nigeria,Digital India,Fiber,80.93,1.61,98.23,60.38,Private,Cybersecurity,2018
+Tanzania,Digital India,TSN,68.59,1.2,90.79,68.97,Private,Skilled Manpower Shortage,2024
+India,Digital India,Satellite,65.21,1.7,92.13,52.25,PPP,Cybersecurity,2020
+India,BharatNet,Fiber,70.88,1.22,94.89,58.5,Private,RoW Delays,2019
+Ghana,RuralNet,Fiber,54.14,1.42,91.71,57.18,PPP,High Cost,2022
+Ethiopia,LEO Pilot,Fiber,78.51,1.07,92.42,65.13,PPP,High Cost,2023
+Nigeria,Fiber Africa,TSN,60.22,1.4,92.42,56.28,Private,Skilled Manpower Shortage,2021
+Nigeria,LEO Pilot,Satellite,61.91,1.03,93.24,64.69,PPP,Skilled Manpower Shortage,2025
+Ghana,LEO Pilot,TSN,71.31,1.73,94.65,52.15,Government,Skilled Manpower Shortage,2025
+Kenya,RuralNet,Fiber,65.07,1.9,97.63,50.46,Government,RoW Delays,2022
+Nigeria,LEO Pilot,Satellite,78.71,1.39,90.53,65.55,PPP,Cybersecurity,2020
+Kenya,Smart Village,Hybrid,64.18,1.54,96.64,71.58,Private,Integration Complexity,2018
+Kenya,RuralNet,Hybrid,81.17,1.89,93.77,73.98,Private,Integration Complexity,2023
+Tanzania,BharatNet,Hybrid,56.57,1.91,94.63,60.45,Private,Cybersecurity,2024
+Ghana,LEO Pilot,Fiber,53.6,1.87,98.83,50.01,Government,Skilled Manpower Shortage,2021
+India,RuralNet,Fiber,81.2,1.79,98.18,60.34,Government,High Cost,2019
+Kenya,Fiber Africa,Hybrid,80.5,1.29,91.42,63.51,Private,Skilled Manpower Shortage,2023
+Ethiopia,Digital India,Fiber,83.1,0.95,92.42,53.45,Government,GNSS Interference,2018
+Tanzania,Digital India,Hybrid,47.56,1.09,94.96,69.37,Private,RoW Delays,2025
+South Africa,RuralNet,5G GNSS,53.43,1.9,97.4,67.48,Private,High Cost,2021
+Kenya,5G Expansion,Hybrid,75.61,0.87,98.0,64.74,Private,High Cost,2025
+India,Fiber Africa,TSN,54.71,1.94,92.03,73.19,Private,RoW Delays,2022
+Ghana,Fiber Africa,Fiber,50.05,1.81,94.24,60.29,Private,Cybersecurity,2020
+Ghana,BharatNet,TSN,45.11,1.12,93.58,59.21,PPP,GNSS Interference,2018
+Tanzania,Digital India,5G OAS,72.68,0.94,92.61,67.25,Government,Cybersecurity,2025
+Nigeria,Smart Village,TSN,75.02,1.95,96.82,55.77,Government,Cybersecurity,2024
+Nigeria,Digital India,Fiber,68.68,1.16,93.01,57.36,PPP,Cybersecurity,2020
+India,Smart Village,Hybrid,77.04,1.97,92.83,72.22,Private,Integration Complexity,2020
+India,Digital India,TSN,67.24,0.87,97.81,54.95,Private,Cybersecurity,2025
+Nigeria,Smart Village,5G OAS,68.45,1.48,97.75,62.32,PPP,GNSS Interference,2023
+India,Smart Village,Hybrid,70.24,1.72,95.65,68.71,PPP,High Cost,2018
+Kenya,Smart Village,TSN,63.84,1.7,91.95,55.57,PPP,High Cost,2021
+Tanzania,Fiber Africa,5G OAS,73.75,1.58,91.51,64.87,Private,GNSS Interference,2021
+Kenya,Digital India,TSN,57.51,1.26,95.05,53.72,PPP,GNSS Interference,2021
+Nigeria,LEO Pilot,5G OAS,82.92,1.88,95.14,51.31,Government,GNSS Interference,2021
+Tanzania,Fiber Africa,5G GNSS,46.12,1.16,93.47,56.88,Private,RoW Delays,2020
+South Africa,RuralNet,Fiber,83.59,0.87,98.33,51.47,Government,Cybersecurity,2021
+Nigeria,LEO Pilot,Fiber,48.86,1.17,93.09,67.43,Private,Skilled Manpower Shortage,2023
+Ethiopia,5G Expansion,5G OAS,77.1,1.94,93.31,69.1,Private,Integration Complexity,2025
+India,Fiber Africa,5G OAS,83.8,1.4,93.34,68.13,PPP,RoW Delays,2022
+Kenya,LEO Pilot,Satellite,82.3,1.56,95.68,55.43,Government,Skilled Manpower Shortage,2025
+Ghana,Smart Village,5G OAS,77.75,1.96,97.62,71.2,Private,High Cost,2021
+India,Digital India,Hybrid,81.2,1.95,90.31,61.99,Government,GNSS Interference,2024
+Kenya,RuralNet,Satellite,77.25,0.81,90.97,63.97,PPP,Skilled Manpower Shortage,2023
+Ethiopia,BharatNet,Satellite,72.43,1.24,90.35,60.02,Government,Integration Complexity,2024
+Ethiopia,BharatNet,TSN,77.12,1.46,90.56,65.0,Private,RoW Delays,2025
+Kenya,LEO Pilot,TSN,64.34,1.13,92.32,53.82,Private,High Cost,2019
+India,5G Expansion,5G GNSS,62.44,1.5,92.15,65.44,Government,GNSS Interference,2020
+Kenya,BharatNet,TSN,60.6,0.95,97.84,72.58,PPP,RoW Delays,2019
+Kenya,5G Expansion,Hybrid,74.7,1.04,91.63,55.03,PPP,Cybersecurity,2019
+South Africa,LEO Pilot,5G GNSS,58.57,1.11,96.29,67.11,Government,RoW Delays,2019
+Kenya,BharatNet,5G GNSS,71.63,1.2,91.46,71.5,PPP,Skilled Manpower Shortage,2024
+Nigeria,BharatNet,Hybrid,79.57,1.15,94.59,66.66,Private,RoW Delays,2018
+Ghana,BharatNet,5G GNSS,59.82,1.69,94.64,63.34,PPP,RoW Delays,2022
+Nigeria,5G Expansion,5G GNSS,54.94,1.34,93.09,56.85,Government,Skilled Manpower Shortage,2020
+Kenya,5G Expansion,5G OAS,56.81,0.9,92.68,72.99,PPP,High Cost,2020
+Ethiopia,Digital India,5G OAS,79.38,0.93,91.47,54.74,PPP,RoW Delays,2020
+India,Fiber Africa,TSN,58.49,1.35,95.98,59.8,Government,Skilled Manpower Shortage,2019
+Ethiopia,Fiber Africa,Hybrid,81.37,1.98,97.5,64.75,PPP,Cybersecurity,2021
+India,5G Expansion,Hybrid,68.77,1.65,91.38,68.83,PPP,Cybersecurity,2019
+South Africa,LEO Pilot,5G GNSS,62.67,0.98,97.85,71.14,PPP,GNSS Interference,2023
+Ethiopia,Smart Village,TSN,84.9,1.29,93.13,51.0,PPP,Integration Complexity,2024
+South Africa,Smart Village,Hybrid,70.6,0.8,93.97,66.11,PPP,Skilled Manpower Shortage,2023
+Tanzania,Digital India,Hybrid,48.6,1.69,93.54,62.69,PPP,GNSS Interference,2025
+Tanzania,RuralNet,Fiber,63.16,1.77,93.57,71.16,Government,RoW Delays,2022
+South Africa,BharatNet,Satellite,57.33,1.17,93.89,59.12,PPP,Skilled Manpower Shortage,2018
+India,5G Expansion,TSN,74.61,1.67,97.91,74.17,Government,High Cost,2024
+Tanzania,5G Expansion,Satellite,59.99,1.49,98.94,52.61,PPP,RoW Delays,2025
+South Africa,LEO Pilot,TSN,47.44,1.73,93.29,64.72,PPP,GNSS Interference,2022
+Ghana,Digital India,5G OAS,56.22,1.16,93.93,67.98,PPP,Integration Complexity,2022
+Kenya,LEO Pilot,Satellite,73.2,1.99,94.75,57.4,PPP,RoW Delays,2020
+Tanzania,5G Expansion,Satellite,61.66,1.71,98.44,69.21,PPP,RoW Delays,2019
+Ethiopia,Smart Village,Satellite,80.73,1.95,93.53,64.07,Government,Cybersecurity,2018
+Ethiopia,BharatNet,Satellite,57.77,1.06,93.31,72.13,PPP,Integration Complexity,2019
+Ghana,BharatNet,5G OAS,51.98,1.4,91.17,53.58,Private,Integration Complexity,2020
+Ethiopia,RuralNet,TSN,81.58,1.63,95.0,50.41,Government,Cybersecurity,2025
+India,Fiber Africa,5G GNSS,74.24,1.55,97.74,68.92,Private,GNSS Interference,2018
+India,BharatNet,Hybrid,58.18,1.77,90.3,62.18,PPP,High Cost,2019
+Kenya,5G Expansion,5G OAS,48.9,1.42,95.61,68.5,Private,High Cost,2021
+South Africa,Smart Village,TSN,77.34,1.04,94.2,50.16,Private,High Cost,2021
+India,5G Expansion,TSN,46.53,1.96,94.22,51.07,Government,GNSS Interference,2019
+South Africa,Fiber Africa,TSN,60.12,0.83,95.37,51.86,Government,High Cost,2025
+Tanzania,RuralNet,Satellite,54.47,0.83,94.51,72.89,Government,GNSS Interference,2021
+South Africa,Digital India,Hybrid,62.05,0.84,92.34,67.11,Private,High Cost,2018
+Tanzania,LEO Pilot,TSN,70.23,1.49,95.32,66.68,Private,Integration Complexity,2020
+South Africa,Digital India,Fiber,53.33,1.95,98.43,54.29,Government,Integration Complexity,2020
+Ethiopia,Smart Village,5G GNSS,60.62,1.88,92.79,74.21,PPP,GNSS Interference,2022
+Tanzania,RuralNet,Hybrid,83.62,0.81,93.26,57.37,PPP,Integration Complexity,2019
+South Africa,RuralNet,Fiber,70.54,0.91,92.97,71.52,Private,High Cost,2020
+Tanzania,5G Expansion,Fiber,60.48,1.32,96.74,62.27,Private,High Cost,2019
+Tanzania,RuralNet,Satellite,57.21,0.82,96.0,70.28,Private,High Cost,2019
+Tanzania,LEO Pilot,Satellite,47.45,1.21,91.86,53.58,Government,High Cost,2020
+Tanzania,Smart Village,Fiber,73.24,1.84,91.76,59.47,PPP,GNSS Interference,2022
+Nigeria,Fiber Africa,5G OAS,72.17,0.93,98.38,54.37,PPP,High Cost,2022
+Ghana,Smart Village,Hybrid,54.53,1.19,98.27,64.83,Private,Integration Complexity,2023
+India,RuralNet,TSN,45.89,0.88,98.37,57.4,Government,RoW Delays,2018
+Ethiopia,Fiber Africa,TSN,45.8,1.31,96.54,70.68,Private,Skilled Manpower Shortage,2023
+Nigeria,RuralNet,Fiber,71.9,1.56,94.64,54.7,Government,High Cost,2021
+India,LEO Pilot,TSN,55.5,1.53,98.54,52.96,PPP,High Cost,2022
+India,Smart Village,5G OAS,67.44,1.15,93.61,74.45,Government,Skilled Manpower Shortage,2018
+Ethiopia,Smart Village,Satellite,48.32,1.86,91.92,62.95,PPP,Skilled Manpower Shortage,2024
+India,BharatNet,TSN,81.05,1.01,90.99,50.02,PPP,RoW Delays,2025
+Nigeria,Fiber Africa,TSN,75.54,0.94,98.46,71.78,Private,Cybersecurity,2020
+Tanzania,Digital India,TSN,66.94,1.66,93.26,62.97,Government,Integration Complexity,2025
+South Africa,Fiber Africa,5G GNSS,50.32,0.84,92.13,55.35,Private,Cybersecurity,2024
+Ethiopia,5G Expansion,5G OAS,74.05,1.39,93.8,56.42,Government,Skilled Manpower Shortage,2019
+South Africa,Fiber Africa,5G GNSS,45.95,1.26,90.1,68.7,Government,Cybersecurity,2022
+Ghana,Digital India,TSN,82.1,1.57,93.7,73.53,PPP,Integration Complexity,2022
+South Africa,Digital India,TSN,71.2,0.85,91.06,63.46,Private,Integration Complexity,2024
+Tanzania,RuralNet,5G GNSS,45.53,1.81,94.03,53.56,PPP,GNSS Interference,2023
+India,Fiber Africa,Hybrid,58.86,1.41,92.64,56.82,Private,Integration Complexity,2020
+Kenya,LEO Pilot,5G OAS,52.55,0.97,90.56,67.31,Government,RoW Delays,2021
+Ghana,Smart Village,Fiber,66.31,1.54,91.9,73.38,Government,Integration Complexity,2021
+Nigeria,Digital India,Hybrid,67.6,1.97,90.53,59.07,PPP,Integration Complexity,2025
+India,Digital India,Hybrid,70.73,1.78,91.48,57.01,Government,Integration Complexity,2019
+Kenya,LEO Pilot,Fiber,77.84,1.37,92.94,54.99,Government,Integration Complexity,2019
+South Africa,LEO Pilot,5G GNSS,64.11,1.65,95.34,70.23,PPP,RoW Delays,2018
+Nigeria,Fiber Africa,Fiber,76.07,1.79,92.58,60.48,Private,High Cost,2023
+Ghana,BharatNet,5G OAS,58.13,1.46,95.39,57.75,Government,High Cost,2018
+Nigeria,5G Expansion,TSN,79.49,1.56,95.37,55.63,PPP,Cybersecurity,2024
+South Africa,5G Expansion,5G GNSS,65.84,0.92,97.57,53.6,PPP,Skilled Manpower Shortage,2022
+Ghana,Fiber Africa,Hybrid,52.23,1.73,98.86,73.15,Government,Integration Complexity,2019
+South Africa,BharatNet,Satellite,47.79,1.61,91.32,65.09,PPP,High Cost,2025
+Nigeria,Smart Village,5G OAS,47.5,0.87,96.43,65.35,Private,Cybersecurity,2018
+Tanzania,Fiber Africa,Hybrid,68.93,1.38,95.45,60.06,Private,Integration Complexity,2019
+Ghana,Digital India,Satellite,69.64,1.5,91.03,74.76,PPP,High Cost,2022
+Tanzania,LEO Pilot,Fiber,52.82,0.82,92.04,72.24,PPP,Integration Complexity,2023
+Kenya,LEO Pilot,Fiber,80.63,0.95,94.44,55.98,Private,RoW Delays,2025
+Ethiopia,BharatNet,Satellite,76.48,1.54,94.8,55.32,PPP,Integration Complexity,2021
+Ethiopia,Fiber Africa,5G OAS,60.4,0.94,91.85,53.16,PPP,RoW Delays,2018
+India,LEO Pilot,TSN,51.53,1.13,93.66,63.25,PPP,Skilled Manpower Shortage,2020
+South Africa,Smart Village,Fiber,57.32,0.88,98.47,71.62,Private,High Cost,2018
+South Africa,5G Expansion,Fiber,69.75,0.85,95.35,56.0,PPP,GNSS Interference,2019
+Kenya,5G Expansion,Fiber,53.42,1.12,94.86,74.75,PPP,RoW Delays,2021
+Ghana,BharatNet,5G OAS,75.93,1.33,91.54,64.99,PPP,Skilled Manpower Shortage,2025
+India,5G Expansion,Satellite,60.16,1.24,90.28,67.98,Government,RoW Delays,2019
+South Africa,RuralNet,5G OAS,82.48,1.2,93.36,58.8,Government,GNSS Interference,2019
+India,5G Expansion,TSN,45.01,1.53,97.06,55.23,PPP,RoW Delays,2021
+Ethiopia,Digital India,5G OAS,63.26,1.14,91.79,57.3,Government,Cybersecurity,2019
+Ghana,5G Expansion,Fiber,67.74,1.55,97.83,55.71,Government,GNSS Interference,2020
+Nigeria,LEO Pilot,Hybrid,52.57,1.55,92.5,73.1,PPP,RoW Delays,2019
+Kenya,Digital India,Satellite,82.87,1.69,97.1,64.83,Government,Cybersecurity,2022
+Tanzania,RuralNet,Satellite,48.43,1.63,98.41,68.07,PPP,Skilled Manpower Shortage,2025
+Kenya,Smart Village,Hybrid,84.65,1.63,96.75,56.41,PPP,Cybersecurity,2021
+South Africa,BharatNet,TSN,74.37,1.42,93.85,68.55,PPP,Integration Complexity,2019
+Ghana,Fiber Africa,TSN,45.88,0.82,97.04,74.69,Private,RoW Delays,2018
+Nigeria,LEO Pilot,TSN,77.76,1.53,98.02,64.39,Private,Skilled Manpower Shortage,2021
+South Africa,BharatNet,TSN,49.74,2.0,92.73,61.72,Government,Skilled Manpower Shortage,2025
+Tanzania,Digital India,5G OAS,54.1,0.81,93.98,71.34,Private,Integration Complexity,2020
+Ghana,RuralNet,5G GNSS,72.54,0.81,93.57,61.33,Government,Skilled Manpower Shortage,2020
+Ghana,LEO Pilot,5G OAS,57.68,2.0,93.05,70.42,Government,Integration Complexity,2024
+Ethiopia,RuralNet,Hybrid,70.46,0.93,92.96,55.73,Government,Skilled Manpower Shortage,2022
+Ghana,Smart Village,5G GNSS,58.48,1.47,93.91,51.82,PPP,RoW Delays,2024
+Kenya,RuralNet,Fiber,74.11,1.68,90.11,58.88,PPP,Skilled Manpower Shortage,2023
+India,LEO Pilot,5G OAS,61.12,1.19,97.77,65.71,Government,Integration Complexity,2019
+Nigeria,BharatNet,5G GNSS,80.16,0.98,92.19,52.94,Private,GNSS Interference,2023
+India,RuralNet,5G GNSS,68.66,1.4,95.95,69.97,PPP,RoW Delays,2020
+Ghana,5G Expansion,TSN,54.89,1.35,97.04,73.22,Government,Cybersecurity,2019
+India,Smart Village,Fiber,66.94,1.45,97.47,66.21,PPP,RoW Delays,2018
+Ghana,Fiber Africa,Satellite,60.18,1.01,95.2,54.25,Private,High Cost,2025
+Ghana,RuralNet,5G OAS,68.94,1.26,98.25,64.14,Private,High Cost,2023
+Ghana,Fiber Africa,Fiber,76.4,0.99,91.87,57.62,Private,Integration Complexity,2020
+Ethiopia,LEO Pilot,5G GNSS,64.07,0.98,98.43,56.74,Government,Cybersecurity,2024
+Kenya,5G Expansion,TSN,57.42,1.29,95.5,74.08,Government,GNSS Interference,2021
+South Africa,BharatNet,5G GNSS,71.72,1.25,97.85,60.81,Private,Cybersecurity,2023
+Nigeria,5G Expansion,Hybrid,52.58,1.09,98.03,63.34,PPP,Cybersecurity,2024
+Ethiopia,BharatNet,5G OAS,76.52,1.72,97.2,61.45,Private,High Cost,2021
+Ethiopia,LEO Pilot,5G OAS,83.62,1.16,98.35,68.1,PPP,Integration Complexity,2022
+Nigeria,Smart Village,5G GNSS,54.88,1.25,90.89,73.88,Private,Integration Complexity,2019
+Tanzania,RuralNet,Satellite,72.87,1.38,96.32,68.94,Private,RoW Delays,2020
+Ghana,Fiber Africa,Satellite,78.45,1.05,93.39,67.8,Government,Skilled Manpower Shortage,2022
+South Africa,Fiber Africa,5G GNSS,49.41,0.95,92.65,63.59,Private,Integration Complexity,2022
+Ghana,Digital India,Satellite,58.36,1.86,92.8,62.35,PPP,RoW Delays,2023
+Tanzania,RuralNet,5G OAS,77.03,1.54,92.82,59.85,PPP,High Cost,2021
+Nigeria,RuralNet,Hybrid,50.75,1.41,98.0,54.09,Private,RoW Delays,2023
+Ethiopia,BharatNet,5G GNSS,74.0,1.83,92.08,52.53,Private,RoW Delays,2020
+India,BharatNet,5G OAS,58.55,1.5,95.67,54.96,Government,GNSS Interference,2025
+Kenya,LEO Pilot,Hybrid,46.2,1.03,94.06,55.78,Government,RoW Delays,2018
+Ghana,Smart Village,Fiber,73.06,1.39,91.68,74.1,Private,Integration Complexity,2025
+Nigeria,RuralNet,5G OAS,69.13,1.07,95.22,74.59,PPP,Integration Complexity,2020
+Ghana,Fiber Africa,Hybrid,76.62,1.84,92.7,51.54,Private,GNSS Interference,2022
+Kenya,Fiber Africa,Hybrid,64.72,0.85,96.67,63.61,Private,High Cost,2021
+South Africa,LEO Pilot,Fiber,54.56,0.94,92.1,53.99,Private,GNSS Interference,2025
+Ethiopia,Digital India,5G OAS,48.93,1.2,94.39,56.94,Private,RoW Delays,2024
+Kenya,RuralNet,5G OAS,77.17,0.87,91.28,57.0,Private,Skilled Manpower Shortage,2018
+Tanzania,Smart Village,Satellite,69.41,1.29,96.15,53.68,Private,GNSS Interference,2018
+Nigeria,Smart Village,Hybrid,73.27,1.99,95.36,63.99,PPP,High Cost,2025
+Kenya,Fiber Africa,Fiber,76.88,1.44,93.98,64.43,PPP,Skilled Manpower Shortage,2022
+Nigeria,LEO Pilot,Satellite,59.14,1.51,92.28,64.89,Government,Skilled Manpower Shortage,2020
+Kenya,LEO Pilot,Fiber,73.2,1.44,91.5,60.07,Government,High Cost,2022
+South Africa,RuralNet,Fiber,82.61,0.84,97.53,66.64,Private,RoW Delays,2019
+Kenya,RuralNet,TSN,77.25,0.9,91.54,63.2,Private,Cybersecurity,2018
+India,Smart Village,Satellite,68.3,1.36,98.5,53.51,PPP,GNSS Interference,2018
+Tanzania,Smart Village,5G GNSS,61.84,1.55,92.36,52.49,Private,GNSS Interference,2022
+Tanzania,BharatNet,Hybrid,63.86,0.81,93.0,51.15,Government,Skilled Manpower Shortage,2018
+Ghana,Smart Village,5G GNSS,81.35,0.87,98.07,74.59,PPP,RoW Delays,2024
+Ethiopia,BharatNet,Hybrid,54.58,1.74,96.06,51.22,PPP,Cybersecurity,2021
+Tanzania,Digital India,Fiber,79.23,1.94,94.88,62.65,Government,GNSS Interference,2022
+Kenya,Digital India,TSN,70.88,1.58,90.18,64.09,PPP,High Cost,2022
+Ghana,BharatNet,TSN,45.34,1.13,93.99,52.05,Private,Cybersecurity,2021
+Kenya,Smart Village,5G GNSS,58.93,0.8,97.17,59.75,Government,Integration Complexity,2018
+Nigeria,RuralNet,5G OAS,71.89,1.39,95.7,54.63,Private,High Cost,2024
+Ghana,RuralNet,Hybrid,66.46,1.55,93.68,63.07,PPP,GNSS Interference,2018
+India,Digital India,Fiber,46.49,1.33,90.75,50.32,PPP,High Cost,2020
+Kenya,BharatNet,5G OAS,45.33,1.6,93.06,57.75,PPP,Cybersecurity,2025
+India,LEO Pilot,5G OAS,66.84,0.99,96.12,74.86,Private,High Cost,2024
+Nigeria,RuralNet,TSN,62.19,1.03,98.72,53.01,Private,Integration Complexity,2020
+Kenya,Smart Village,Hybrid,65.15,1.52,96.95,58.59,Private,Cybersecurity,2021
+Nigeria,5G Expansion,Fiber,62.86,0.83,90.97,58.07,Private,Cybersecurity,2022
+Ghana,Digital India,TSN,61.28,1.95,91.32,66.74,PPP,Cybersecurity,2021
+Ethiopia,Smart Village,Satellite,61.69,1.63,95.37,60.52,PPP,Skilled Manpower Shortage,2019
+Ghana,Fiber Africa,Satellite,51.59,0.84,94.04,59.2,Private,Skilled Manpower Shortage,2021
+Ghana,Smart Village,5G OAS,56.06,0.91,95.74,71.6,Private,Integration Complexity,2025
+Nigeria,Fiber Africa,Hybrid,72.01,1.43,93.43,50.49,Government,Cybersecurity,2018
+Nigeria,Digital India,Satellite,56.31,0.93,98.63,58.07,Private,Skilled Manpower Shortage,2023
+Kenya,Digital India,Fiber,84.78,1.0,98.9,71.09,Government,Cybersecurity,2023
+Kenya,Fiber Africa,Satellite,62.13,0.86,95.92,74.13,PPP,Cybersecurity,2022
+Tanzania,LEO Pilot,Hybrid,47.15,1.92,95.75,66.32,PPP,Integration Complexity,2025
+Tanzania,Smart Village,5G OAS,70.08,1.03,96.44,74.05,PPP,RoW Delays,2018
+Tanzania,RuralNet,5G GNSS,45.33,1.54,91.44,64.02,PPP,Cybersecurity,2019
+Kenya,5G Expansion,TSN,81.94,1.22,96.92,74.53,Government,Integration Complexity,2018
+Ethiopia,5G Expansion,5G OAS,54.68,1.33,95.45,66.12,PPP,Cybersecurity,2020
+India,Fiber Africa,5G OAS,47.09,1.95,94.69,50.95,Private,High Cost,2023
+South Africa,BharatNet,Fiber,81.4,0.94,92.08,50.55,Government,Integration Complexity,2020
+South Africa,5G Expansion,Fiber,54.97,0.96,94.62,67.94,PPP,High Cost,2020
+India,Digital India,Fiber,55.37,1.47,96.5,74.47,Government,Skilled Manpower Shortage,2020
+South Africa,BharatNet,Hybrid,49.52,1.02,90.75,61.2,Government,High Cost,2025
+Kenya,BharatNet,5G GNSS,76.73,1.17,93.43,50.55,PPP,Skilled Manpower Shortage,2018
+Ethiopia,RuralNet,TSN,45.48,1.92,92.55,54.95,PPP,Skilled Manpower Shortage,2021
+Nigeria,BharatNet,Fiber,49.74,1.93,91.05,71.47,Private,High Cost,2020
+India,LEO Pilot,5G OAS,73.9,0.99,90.77,59.67,Government,Integration Complexity,2018
+Ghana,Smart Village,Hybrid,60.16,1.49,90.66,72.44,Private,Skilled Manpower Shortage,2019
+Nigeria,BharatNet,5G OAS,71.91,0.97,97.52,58.29,Private,GNSS Interference,2025
+Nigeria,5G Expansion,5G OAS,81.72,0.91,93.26,57.19,Government,Skilled Manpower Shortage,2025
+India,BharatNet,Fiber,78.76,1.55,95.19,56.48,PPP,Integration Complexity,2025
+Tanzania,RuralNet,Fiber,73.16,1.57,94.4,70.39,Private,Cybersecurity,2020
+South Africa,Fiber Africa,5G OAS,72.08,1.75,98.39,72.52,Government,RoW Delays,2021
+Tanzania,RuralNet,Hybrid,79.0,1.5,91.71,54.97,Private,Cybersecurity,2022
+Tanzania,Fiber Africa,Fiber,45.51,1.88,95.13,65.96,PPP,GNSS Interference,2019
+India,Smart Village,5G OAS,69.94,1.43,94.28,59.42,PPP,Skilled Manpower Shortage,2023
+India,Fiber Africa,5G GNSS,70.06,1.18,94.09,56.57,Private,High Cost,2024
+Tanzania,LEO Pilot,5G GNSS,78.84,1.69,92.7,52.32,Private,High Cost,2023
+Ethiopia,5G Expansion,Satellite,63.7,1.27,94.33,66.16,Government,Cybersecurity,2021
+Tanzania,5G Expansion,5G OAS,73.41,1.29,93.61,73.96,PPP,GNSS Interference,2019
+Ghana,RuralNet,5G GNSS,71.68,1.02,98.7,67.85,Private,GNSS Interference,2021
+Ethiopia,BharatNet,Fiber,77.84,1.54,90.83,67.72,PPP,High Cost,2020
+Tanzania,LEO Pilot,Fiber,58.52,0.93,93.61,52.41,Private,GNSS Interference,2022
+Kenya,BharatNet,5G OAS,71.38,1.45,93.39,72.27,PPP,High Cost,2018
+Nigeria,5G Expansion,TSN,66.71,1.58,90.42,65.94,Private,High Cost,2023
+Tanzania,Fiber Africa,5G OAS,80.25,1.55,96.29,62.17,PPP,Integration Complexity,2025
+Nigeria,Smart Village,5G GNSS,49.16,0.99,94.03,60.9,PPP,Skilled Manpower Shortage,2018
+Ghana,RuralNet,TSN,84.55,1.08,98.94,51.17,Government,RoW Delays,2021
+Tanzania,5G Expansion,5G OAS,80.38,1.88,96.55,53.48,Government,RoW Delays,2021
+Tanzania,BharatNet,Satellite,64.71,1.41,94.49,64.26,Government,Skilled Manpower Shortage,2025
+India,BharatNet,Hybrid,77.04,1.75,95.13,69.77,Private,RoW Delays,2020
+Tanzania,BharatNet,Fiber,55.96,1.1,95.01,51.14,Private,High Cost,2021
+Kenya,Smart Village,Fiber,73.5,1.05,92.16,69.12,Government,Cybersecurity,2020
+Ethiopia,Smart Village,TSN,57.68,1.65,92.16,58.12,Private,GNSS Interference,2025
+Ghana,5G Expansion,Satellite,61.66,0.87,98.92,60.63,PPP,Integration Complexity,2025
+India,LEO Pilot,5G OAS,72.3,0.88,93.15,53.26,PPP,RoW Delays,2022
+Tanzania,Smart Village,Satellite,76.23,1.6,95.49,66.09,PPP,Skilled Manpower Shortage,2020
+Tanzania,5G Expansion,Hybrid,67.5,1.73,90.28,51.4,Government,RoW Delays,2021
+Ghana,5G Expansion,Fiber,54.06,1.6,98.52,64.22,PPP,RoW Delays,2019
+Nigeria,BharatNet,Fiber,48.66,1.54,96.17,74.72,Private,Cybersecurity,2019
+South Africa,Smart Village,Satellite,49.81,1.16,93.96,72.36,Government,Integration Complexity,2024
+Ghana,Smart Village,5G GNSS,53.21,0.8,90.12,54.07,Private,Skilled Manpower Shortage,2025
+Ghana,Digital India,Fiber,68.93,0.95,92.22,50.55,PPP,Skilled Manpower Shortage,2024
+Kenya,LEO Pilot,5G OAS,70.78,1.61,97.39,52.32,Private,Integration Complexity,2018
+South Africa,LEO Pilot,Fiber,58.87,1.56,96.26,65.44,Government,RoW Delays,2019
+Kenya,BharatNet,Satellite,83.52,1.35,97.09,69.99,Government,Integration Complexity,2025
+Nigeria,RuralNet,Satellite,45.88,1.14,90.93,71.71,Government,Skilled Manpower Shortage,2020
+South Africa,5G Expansion,TSN,69.78,1.16,96.82,62.69,Government,GNSS Interference,2021
+Tanzania,5G Expansion,Satellite,59.29,1.36,91.53,63.57,Government,RoW Delays,2023
+Tanzania,BharatNet,Fiber,74.81,1.2,94.37,59.08,PPP,Cybersecurity,2021
+Ghana,BharatNet,TSN,82.52,1.09,98.63,61.53,Private,Skilled Manpower Shortage,2023
+Ethiopia,RuralNet,TSN,51.1,1.93,90.75,65.4,Private,GNSS Interference,2022
+Kenya,BharatNet,5G GNSS,67.54,1.69,93.82,65.18,Private,Skilled Manpower Shortage,2022
+Ethiopia,Fiber Africa,Hybrid,65.39,1.1,98.29,54.45,PPP,Integration Complexity,2025
+India,Fiber Africa,5G OAS,67.88,1.86,95.34,66.86,Government,Skilled Manpower Shortage,2025
+Tanzania,5G Expansion,5G OAS,64.98,0.85,96.72,69.94,Private,Integration Complexity,2025
+India,Fiber Africa,Satellite,62.5,1.02,98.2,56.94,Private,Cybersecurity,2025
+South Africa,RuralNet,5G OAS,58.82,1.84,90.28,64.1,PPP,RoW Delays,2021
+India,RuralNet,Satellite,67.31,1.61,91.93,71.23,PPP,Cybersecurity,2025
+India,Digital India,Fiber,59.43,1.33,96.56,72.22,PPP,High Cost,2022
+Ghana,Fiber Africa,Satellite,45.86,1.14,95.59,64.13,Government,High Cost,2024
+India,5G Expansion,Hybrid,70.81,1.34,91.28,66.18,PPP,GNSS Interference,2023
+Kenya,Smart Village,TSN,79.05,1.8,93.8,57.07,Private,Integration Complexity,2025
+Tanzania,BharatNet,Hybrid,58.07,1.15,94.56,73.28,Private,High Cost,2019
+Nigeria,Smart Village,5G GNSS,75.6,1.21,91.73,65.73,Private,GNSS Interference,2023
+Ethiopia,RuralNet,Hybrid,55.29,1.83,97.98,63.67,PPP,RoW Delays,2021
+Nigeria,Fiber Africa,Fiber,84.28,1.05,90.35,71.99,Government,Skilled Manpower Shortage,2019
+India,Digital India,5G OAS,63.84,1.34,94.0,68.05,PPP,GNSS Interference,2023
+India,Fiber Africa,Fiber,78.88,0.87,91.39,52.56,Private,Integration Complexity,2022
+Ghana,Digital India,TSN,54.99,1.21,97.04,60.99,Government,Integration Complexity,2020
+India,RuralNet,Hybrid,55.57,1.58,92.66,68.24,PPP,RoW Delays,2022
+Nigeria,Digital India,5G GNSS,71.71,1.19,93.42,62.26,PPP,Integration Complexity,2023
+Ethiopia,LEO Pilot,Fiber,75.49,1.02,94.33,68.01,Private,High Cost,2025
+South Africa,Smart Village,5G OAS,68.44,1.54,93.8,65.26,Government,High Cost,2020
+India,BharatNet,TSN,64.66,1.44,96.89,57.1,Government,High Cost,2019
+Nigeria,5G Expansion,Hybrid,46.11,1.39,93.55,51.22,Government,GNSS Interference,2025
+Kenya,BharatNet,5G GNSS,51.09,1.85,98.11,56.26,PPP,RoW Delays,2025
+India,Smart Village,Satellite,53.36,1.83,93.03,65.68,Private,GNSS Interference,2020
+India,Digital India,TSN,82.43,1.24,93.15,52.29,PPP,High Cost,2022
+South Africa,5G Expansion,TSN,61.94,1.22,92.03,65.99,Private,GNSS Interference,2019
+Nigeria,5G Expansion,5G GNSS,74.97,0.99,96.82,51.49,Government,Skilled Manpower Shortage,2022
+Ethiopia,RuralNet,TSN,51.71,0.84,92.64,58.63,Government,Integration Complexity,2019
+Kenya,RuralNet,Fiber,54.5,1.52,91.97,68.08,Government,RoW Delays,2020
+South Africa,LEO Pilot,5G OAS,54.33,1.7,93.42,69.97,Private,Cybersecurity,2018
+Ghana,Fiber Africa,5G OAS,50.29,1.01,94.4,70.43,Government,Integration Complexity,2022
+Kenya,Digital India,TSN,51.5,0.97,98.1,70.58,Private,Integration Complexity,2025
+Ethiopia,5G Expansion,5G OAS,51.34,1.44,90.48,53.34,Private,Cybersecurity,2024
+South Africa,Digital India,TSN,54.02,1.37,97.4,66.26,Government,Skilled Manpower Shortage,2019
+Ghana,Smart Village,Hybrid,59.84,1.37,94.62,70.33,Government,RoW Delays,2025
+India,Digital India,5G GNSS,66.33,0.86,92.1,68.49,Private,High Cost,2020
+Nigeria,RuralNet,5G GNSS,79.41,1.45,96.06,62.13,Government,Cybersecurity,2025
+Nigeria,Digital India,Satellite,77.57,1.88,90.94,56.11,PPP,Integration Complexity,2019
+Nigeria,BharatNet,Fiber,83.92,1.75,94.05,68.43,Government,Skilled Manpower Shortage,2022
+Ghana,Smart Village,5G GNSS,81.49,2.0,90.87,65.65,Government,High Cost,2023
+Nigeria,5G Expansion,Fiber,71.96,0.93,91.3,70.49,Government,Cybersecurity,2022
+India,Fiber Africa,TSN,47.26,0.86,97.96,69.98,Government,Skilled Manpower Shortage,2024
+Nigeria,Fiber Africa,TSN,75.59,1.37,96.57,60.9,Government,Integration Complexity,2023
+Tanzania,5G Expansion,5G GNSS,51.56,1.93,95.69,72.77,Government,RoW Delays,2021
+South Africa,Smart Village,5G OAS,70.1,0.92,93.75,51.66,Private,Cybersecurity,2020
+India,Smart Village,Satellite,60.23,1.55,97.78,59.39,Private,Integration Complexity,2025
+Ghana,LEO Pilot,Fiber,54.08,1.52,95.39,53.33,PPP,GNSS Interference,2023
+India,Smart Village,Hybrid,84.15,1.26,97.54,62.67,Government,Skilled Manpower Shortage,2024
+India,5G Expansion,Satellite,74.67,1.62,94.5,62.85,PPP,RoW Delays,2024
+Ethiopia,5G Expansion,5G GNSS,65.75,1.39,90.9,72.32,PPP,GNSS Interference,2021
+South Africa,5G Expansion,Hybrid,70.22,1.96,91.76,52.35,PPP,GNSS Interference,2022
+Ghana,Digital India,Fiber,78.03,1.5,91.38,64.63,Government,RoW Delays,2020
+India,BharatNet,Satellite,72.55,1.16,94.87,62.86,Private,Skilled Manpower Shortage,2022
+Nigeria,Fiber Africa,Satellite,47.15,1.97,97.69,67.43,PPP,RoW Delays,2024
+Ethiopia,Digital India,5G OAS,76.51,0.83,92.91,64.03,Government,Skilled Manpower Shortage,2023
+Ghana,5G Expansion,5G OAS,46.37,1.97,91.18,70.9,PPP,Cybersecurity,2025
+Nigeria,RuralNet,TSN,54.42,0.99,92.38,64.68,Private,GNSS Interference,2021
+Nigeria,RuralNet,Hybrid,84.47,0.81,90.84,51.94,Government,Cybersecurity,2018
+Tanzania,Digital India,5G OAS,82.76,1.55,92.37,62.79,Government,RoW Delays,2025
+Nigeria,Fiber Africa,Fiber,47.24,1.35,92.07,60.18,Government,GNSS Interference,2021
+Ghana,BharatNet,5G OAS,46.31,1.63,93.07,66.01,Private,High Cost,2023
+Ethiopia,Fiber Africa,Hybrid,77.1,1.05,95.79,58.47,Government,Integration Complexity,2018
+India,5G Expansion,5G OAS,71.95,0.81,93.8,71.01,PPP,RoW Delays,2025
+Ghana,RuralNet,Hybrid,73.1,1.73,98.16,61.2,PPP,High Cost,2023
+India,5G Expansion,5G GNSS,77.77,1.11,97.22,70.33,Government,High Cost,2020
+India,Smart Village,Hybrid,65.11,1.11,91.62,72.21,Government,Skilled Manpower Shortage,2019
+Kenya,Digital India,Hybrid,76.53,1.64,98.41,61.52,Government,Cybersecurity,2022
+Ghana,Smart Village,Hybrid,82.61,1.96,94.99,51.63,Government,Integration Complexity,2022
+Ethiopia,Fiber Africa,Fiber,52.56,1.05,94.45,61.7,Government,Cybersecurity,2020
+Nigeria,5G Expansion,5G OAS,80.68,1.65,97.66,50.77,Government,GNSS Interference,2018
+Ethiopia,Smart Village,5G GNSS,66.32,1.59,97.24,68.17,Government,Integration Complexity,2023
+Ghana,LEO Pilot,TSN,50.6,1.91,91.23,71.42,Government,Integration Complexity,2023
+Kenya,LEO Pilot,5G OAS,78.42,0.9,95.93,58.12,Government,RoW Delays,2018
+India,5G Expansion,TSN,56.66,1.93,92.05,62.05,PPP,High Cost,2020
+India,BharatNet,Fiber,52.78,1.16,96.97,52.64,PPP,RoW Delays,2021
+Ghana,RuralNet,Satellite,56.88,0.9,92.24,51.29,Government,RoW Delays,2019
+Nigeria,Digital India,TSN,64.14,0.9,96.12,57.77,Government,Cybersecurity,2024
+South Africa,Digital India,Fiber,73.22,1.28,92.3,59.21,Private,Cybersecurity,2020
+India,LEO Pilot,Hybrid,54.59,1.21,93.02,56.86,Private,Cybersecurity,2018
+Nigeria,5G Expansion,Hybrid,57.46,1.1,98.63,53.75,Private,Integration Complexity,2025
+Ghana,Digital India,TSN,69.62,1.38,97.71,72.48,Government,GNSS Interference,2021
+Ethiopia,RuralNet,5G OAS,81.47,1.72,97.42,50.65,Government,Skilled Manpower Shortage,2023
+Ghana,Smart Village,Hybrid,57.92,1.37,97.45,74.97,Government,RoW Delays,2018
+Kenya,LEO Pilot,5G OAS,51.3,1.38,95.16,65.14,Government,GNSS Interference,2019
+Kenya,Fiber Africa,5G OAS,53.33,1.6,92.86,67.44,Government,Cybersecurity,2022
+Ghana,LEO Pilot,Satellite,76.46,1.63,97.41,62.63,Government,High Cost,2025
+Kenya,Digital India,5G GNSS,56.4,1.73,96.08,64.84,Private,Integration Complexity,2018
+Tanzania,LEO Pilot,TSN,58.82,1.78,90.79,72.26,Private,High Cost,2021
+Kenya,5G Expansion,5G OAS,77.81,1.96,98.0,68.44,Government,RoW Delays,2019
+Ghana,BharatNet,TSN,82.93,1.09,97.62,65.21,Government,Skilled Manpower Shortage,2019
+Tanzania,Smart Village,Fiber,76.73,1.53,93.09,57.92,PPP,RoW Delays,2022
+Ghana,5G Expansion,Satellite,69.05,1.83,93.59,54.52,PPP,Skilled Manpower Shortage,2020
+Ethiopia,LEO Pilot,Fiber,45.75,1.57,92.48,64.97,Private,Skilled Manpower Shortage,2024
+Nigeria,Fiber Africa,5G GNSS,68.16,1.73,98.76,65.55,Private,Integration Complexity,2020
+South Africa,Fiber Africa,TSN,51.09,1.72,91.21,68.27,Private,RoW Delays,2025
+Tanzania,Fiber Africa,Fiber,59.3,1.29,93.11,51.0,PPP,Integration Complexity,2023
+Kenya,Fiber Africa,5G GNSS,79.65,1.13,97.13,58.56,Private,RoW Delays,2025
+Ghana,Smart Village,5G OAS,64.23,0.98,96.13,59.06,Government,Integration Complexity,2023
+Nigeria,Fiber Africa,5G GNSS,84.34,1.22,92.35,54.71,PPP,GNSS Interference,2024
+India,5G Expansion,TSN,82.7,0.96,92.39,57.13,Government,High Cost,2025
+Tanzania,LEO Pilot,Fiber,45.02,1.09,96.01,55.05,Government,High Cost,2020
+Tanzania,RuralNet,Hybrid,74.05,1.14,93.68,68.66,Private,High Cost,2024
+Ethiopia,Fiber Africa,5G GNSS,63.4,1.1,90.39,74.3,Government,RoW Delays,2018
+Nigeria,Smart Village,TSN,56.97,1.61,95.15,58.79,Private,Skilled Manpower Shortage,2025
+South Africa,Digital India,5G GNSS,74.88,1.52,98.19,56.04,PPP,Skilled Manpower Shortage,2024
+South Africa,Digital India,Fiber,57.78,1.97,97.21,51.43,PPP,High Cost,2021
+Nigeria,LEO Pilot,Satellite,66.84,1.61,98.16,60.85,PPP,Integration Complexity,2021
+Ethiopia,5G Expansion,TSN,70.91,1.2,91.05,70.55,Private,Integration Complexity,2020
+Ethiopia,BharatNet,Fiber,58.75,1.44,96.25,66.6,Government,Integration Complexity,2022
+Ethiopia,RuralNet,Hybrid,75.78,1.1,97.17,72.96,Government,High Cost,2019
+Ghana,Digital India,TSN,65.98,1.03,95.09,55.4,Government,High Cost,2018
+Ethiopia,Fiber Africa,5G OAS,74.31,1.63,97.18,70.02,Government,Skilled Manpower Shortage,2023
+Nigeria,Smart Village,Satellite,76.58,1.83,93.25,71.6,PPP,High Cost,2018
+South Africa,5G Expansion,TSN,59.6,0.99,90.48,53.32,Government,Skilled Manpower Shortage,2023
+Nigeria,Smart Village,5G OAS,83.38,1.6,98.4,61.31,Private,Cybersecurity,2020
+Ethiopia,Smart Village,5G GNSS,60.07,1.04,90.35,66.25,Government,Cybersecurity,2021
+Ethiopia,Fiber Africa,5G GNSS,83.44,1.33,96.26,63.57,Private,Skilled Manpower Shortage,2020
+Ethiopia,Smart Village,5G OAS,65.77,1.73,95.57,57.29,Government,Cybersecurity,2023
+Kenya,LEO Pilot,TSN,79.06,1.42,95.87,55.87,Private,Skilled Manpower Shortage,2022
+India,Smart Village,Hybrid,78.6,1.96,93.23,51.15,Private,Skilled Manpower Shortage,2019
+South Africa,LEO Pilot,Satellite,58.6,1.54,93.56,52.25,PPP,GNSS Interference,2020
+Nigeria,Fiber Africa,Satellite,74.66,1.49,93.8,74.95,PPP,Skilled Manpower Shortage,2025
+South Africa,Fiber Africa,Hybrid,65.06,1.06,92.34,66.7,PPP,RoW Delays,2020
+Nigeria,Fiber Africa,5G OAS,58.08,1.74,94.31,74.42,PPP,High Cost,2020
+Ghana,BharatNet,Fiber,60.16,0.97,90.6,57.96,Private,Cybersecurity,2023
+Kenya,BharatNet,5G GNSS,81.49,0.91,97.29,62.06,PPP,Integration Complexity,2022
+Nigeria,RuralNet,TSN,54.09,1.99,90.74,50.53,Government,Skilled Manpower Shortage,2022
+Nigeria,RuralNet,Hybrid,60.7,1.82,90.05,72.45,Private,High Cost,2018
+Ethiopia,RuralNet,TSN,70.8,1.16,93.92,59.01,PPP,RoW Delays,2022
+Kenya,LEO Pilot,5G GNSS,59.96,1.83,91.01,57.4,Private,Integration Complexity,2018
+India,Smart Village,Hybrid,64.59,0.89,94.24,54.75,Government,GNSS Interference,2019
+Ethiopia,RuralNet,Satellite,53.55,1.52,90.1,70.23,Government,RoW Delays,2025
+Tanzania,Smart Village,Fiber,69.32,1.95,94.45,57.72,Private,Cybersecurity,2023
+Ghana,Fiber Africa,Fiber,76.29,1.73,92.16,64.84,Private,Skilled Manpower Shortage,2020
+Ghana,RuralNet,5G OAS,72.06,0.99,90.36,63.87,Private,Cybersecurity,2025
+Tanzania,RuralNet,Satellite,55.09,1.29,94.08,73.47,Government,Integration Complexity,2018
+Tanzania,Smart Village,Hybrid,58.94,1.78,98.57,71.02,PPP,Cybersecurity,2021
+India,Digital India,TSN,62.4,0.82,91.92,60.48,Government,RoW Delays,2021
+Nigeria,Smart Village,TSN,54.36,1.84,95.77,51.0,PPP,RoW Delays,2025
+Nigeria,LEO Pilot,TSN,62.59,1.41,96.46,74.92,PPP,Integration Complexity,2025
+Ghana,Digital India,TSN,57.92,1.75,93.3,50.19,Private,Integration Complexity,2019
+Ethiopia,Fiber Africa,TSN,47.53,1.47,90.68,60.11,Government,High Cost,2020
+Ethiopia,BharatNet,5G GNSS,71.08,0.87,95.7,53.15,Private,High Cost,2020
+Ghana,LEO Pilot,Fiber,55.54,1.58,93.46,63.58,Government,High Cost,2018
+Kenya,Smart Village,Hybrid,62.68,1.44,90.51,51.92,PPP,Integration Complexity,2022
+India,RuralNet,5G OAS,71.49,1.06,97.37,61.37,PPP,High Cost,2018
+Nigeria,LEO Pilot,Fiber,82.25,1.77,93.06,70.87,PPP,Cybersecurity,2020
+Ghana,Digital India,Hybrid,69.54,1.41,94.32,71.7,Government,High Cost,2025
+India,LEO Pilot,Hybrid,70.72,0.89,94.58,56.87,Government,GNSS Interference,2018
+Nigeria,LEO Pilot,Fiber,61.24,0.83,92.45,59.79,Government,Skilled Manpower Shortage,2023
+Nigeria,5G Expansion,5G GNSS,53.42,1.18,97.42,74.52,Private,Skilled Manpower Shortage,2025
+Kenya,5G Expansion,Fiber,80.9,1.45,95.95,53.34,Private,GNSS Interference,2021
+Ethiopia,LEO Pilot,Fiber,81.39,1.81,94.1,52.44,Government,High Cost,2020
+Ghana,RuralNet,TSN,62.97,1.75,97.93,62.3,PPP,Cybersecurity,2022
+Kenya,Smart Village,Hybrid,46.31,1.64,91.32,69.15,Private,Integration Complexity,2018
+Ethiopia,BharatNet,TSN,82.0,1.34,94.24,56.9,PPP,Integration Complexity,2023
+South Africa,Digital India,Fiber,69.62,1.74,92.44,70.67,PPP,High Cost,2023
+Nigeria,RuralNet,TSN,57.44,1.85,91.05,58.14,PPP,High Cost,2019
+South Africa,LEO Pilot,5G OAS,71.37,1.14,93.42,54.08,PPP,Cybersecurity,2020
+Kenya,Smart Village,5G GNSS,52.34,1.8,90.04,59.48,PPP,Cybersecurity,2022
+Ethiopia,5G Expansion,Satellite,58.15,1.21,98.77,50.09,PPP,Skilled Manpower Shortage,2021
+India,BharatNet,Fiber,70.33,1.14,90.93,69.89,PPP,Cybersecurity,2020
+Ethiopia,5G Expansion,Fiber,57.62,1.6,94.11,57.36,PPP,Integration Complexity,2023
+Nigeria,RuralNet,TSN,62.21,0.84,95.12,60.59,PPP,RoW Delays,2024
+Kenya,Fiber Africa,5G GNSS,47.89,1.56,94.26,60.04,Private,RoW Delays,2019
+Ethiopia,Smart Village,TSN,55.89,1.76,90.07,69.48,PPP,Cybersecurity,2021
+Nigeria,LEO Pilot,Fiber,69.66,1.0,97.34,62.46,Government,High Cost,2023
+India,LEO Pilot,Hybrid,82.14,1.6,97.46,73.47,PPP,Skilled Manpower Shortage,2021
+South Africa,RuralNet,Satellite,55.84,0.86,96.6,52.72,Private,Integration Complexity,2018
+South Africa,Smart Village,TSN,73.35,1.08,93.54,64.26,Private,Cybersecurity,2025
+Kenya,Digital India,5G OAS,71.29,1.6,90.54,65.95,PPP,Skilled Manpower Shortage,2023
+Kenya,Fiber Africa,5G GNSS,52.95,1.18,90.7,53.22,Government,Integration Complexity,2020
+Tanzania,Fiber Africa,Satellite,84.4,0.87,92.98,54.34,Private,RoW Delays,2018
+South Africa,5G Expansion,5G OAS,58.65,1.41,92.07,55.23,Private,Integration Complexity,2023
+Nigeria,LEO Pilot,Satellite,53.03,1.89,94.58,58.22,Government,Cybersecurity,2020
+Kenya,BharatNet,Fiber,79.35,1.38,95.5,55.3,Government,RoW Delays,2021
+Ethiopia,5G Expansion,Fiber,84.07,0.86,97.75,69.72,Government,GNSS Interference,2025
+Nigeria,Smart Village,Hybrid,56.84,1.62,92.45,68.54,Private,Skilled Manpower Shortage,2021
+Ghana,Smart Village,Fiber,82.65,1.54,93.67,69.58,Private,GNSS Interference,2019
+India,Digital India,TSN,59.73,1.4,98.26,69.16,Government,Skilled Manpower Shortage,2025
+Tanzania,RuralNet,Hybrid,72.31,0.97,96.0,72.54,Government,GNSS Interference,2025
+India,Fiber Africa,Hybrid,77.0,1.72,92.72,53.17,PPP,Cybersecurity,2024
+Tanzania,LEO Pilot,Satellite,56.06,1.05,95.39,53.31,PPP,Skilled Manpower Shortage,2018
+Ghana,LEO Pilot,5G OAS,58.48,1.36,95.49,58.45,Private,RoW Delays,2020
+Ghana,5G Expansion,5G GNSS,71.16,1.29,92.84,58.84,Private,High Cost,2019
+Nigeria,Digital India,Hybrid,64.11,1.8,96.29,65.48,PPP,GNSS Interference,2024
+Nigeria,RuralNet,Hybrid,68.92,1.08,91.66,64.63,PPP,Cybersecurity,2022
+Nigeria,Smart Village,5G OAS,55.11,1.2,98.38,68.95,Government,RoW Delays,2021
+Ethiopia,Smart Village,5G OAS,50.12,1.74,97.7,62.54,PPP,RoW Delays,2025
+Kenya,5G Expansion,Fiber,80.89,1.84,96.81,51.61,PPP,Integration Complexity,2021
+South Africa,Fiber Africa,Hybrid,53.71,1.79,95.84,65.48,Private,GNSS Interference,2023
+Nigeria,RuralNet,Fiber,84.71,0.86,98.34,68.81,Government,Cybersecurity,2022
+Tanzania,Fiber Africa,5G GNSS,70.36,1.18,91.16,66.73,Government,Integration Complexity,2021
+Tanzania,LEO Pilot,Hybrid,49.56,1.22,93.55,58.71,Private,Integration Complexity,2020
+Nigeria,Digital India,Satellite,52.15,1.77,97.18,69.35,Private,Integration Complexity,2023
+Tanzania,5G Expansion,5G OAS,67.02,1.67,90.21,53.37,Private,RoW Delays,2023
+Tanzania,LEO Pilot,TSN,64.64,1.62,97.19,66.02,Private,GNSS Interference,2024
+South Africa,RuralNet,5G OAS,68.61,1.61,97.4,56.26,Government,High Cost,2024
+Kenya,5G Expansion,Satellite,68.17,1.93,92.47,72.4,Private,Skilled Manpower Shortage,2020
+India,Smart Village,5G GNSS,82.96,1.55,95.25,65.05,Private,Skilled Manpower Shortage,2022
+Kenya,BharatNet,Fiber,63.31,1.98,98.73,53.68,Government,GNSS Interference,2019
+Ghana,Digital India,5G OAS,48.54,1.95,96.1,52.47,Government,High Cost,2020
+India,Digital India,5G GNSS,82.16,1.47,97.82,63.49,Government,RoW Delays,2023
+Ghana,BharatNet,5G GNSS,67.18,1.94,96.33,74.92,PPP,Integration Complexity,2023
+South Africa,RuralNet,TSN,76.84,0.84,90.01,53.68,Government,GNSS Interference,2020
+South Africa,RuralNet,5G OAS,73.01,1.52,91.44,51.77,Private,High Cost,2021
+Nigeria,Digital India,5G GNSS,50.68,1.13,92.29,60.9,Private,Skilled Manpower Shortage,2024
+Ghana,Digital India,5G OAS,63.92,0.93,96.82,71.89,PPP,GNSS Interference,2021
+Ethiopia,Digital India,TSN,66.79,1.91,93.3,67.12,Private,Cybersecurity,2020
+Nigeria,Smart Village,TSN,52.64,0.98,98.33,61.3,PPP,GNSS Interference,2020
+South Africa,LEO Pilot,TSN,61.41,1.47,93.63,69.86,Private,High Cost,2022
+Nigeria,LEO Pilot,Hybrid,72.81,1.44,93.69,73.08,Government,Cybersecurity,2023
+Ghana,Digital India,Satellite,65.3,0.95,90.92,53.86,Government,Integration Complexity,2022
